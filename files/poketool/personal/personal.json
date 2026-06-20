@@ -17607,12 +17607,12 @@
     },
     {
       "species": "OCTILLERY",
-      "hp": 75,
-      "atk": 105,
-      "def": 75,
-      "speed": 45,
+      "hp": 95,
+      "atk": 65,
+      "def": 85,
+      "speed": 25,
       "spatk": 105,
-      "spdef": 75,
+      "spdef": 105,
       "types": [
         "TYPE_WATER",
         "TYPE_WATER"
@@ -17638,7 +17638,6 @@
         "EGG_GROUP_WATER_2"
       ],
       "abilities": [
-        "ABILITY_SUCTION_CUPS",
         "ABILITY_SNIPER"
       ],
       "greatMarshRate": 0,
