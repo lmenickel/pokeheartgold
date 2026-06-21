@@ -1,7 +1,9 @@
 #include "field_warp_tasks.h"
 
+#include "constants/items.h"
 #include "constants/maps.h"
 
+#include "bag.h"
 #include "field_bgm.h"
 #include "field_system_rtc_weather.h"
 #include "follow_mon.h"
@@ -333,6 +335,19 @@ static BOOL FieldTask_NewGame(TaskManager *taskManager) {
         sub_02053284(fieldSystem);
         sub_02053038(fieldSystem, FALSE);
         sub_0205316C(fieldSystem);
+        {
+            // Starting inventory: all HMs, all rods, and bulk Rare Candies / Master Balls.
+            Bag *bag = Save_Bag_Get(fieldSystem->saveData);
+            u16 hm;
+            for (hm = ITEM_HM01; hm <= ITEM_HM08; hm++) {
+                Bag_AddItem(bag, hm, 1, HEAP_ID_FIELD2);
+            }
+            Bag_AddItem(bag, ITEM_OLD_ROD, 1, HEAP_ID_FIELD2);
+            Bag_AddItem(bag, ITEM_GOOD_ROD, 1, HEAP_ID_FIELD2);
+            Bag_AddItem(bag, ITEM_SUPER_ROD, 1, HEAP_ID_FIELD2);
+            Bag_AddItem(bag, ITEM_RARE_CANDY, 500, HEAP_ID_FIELD2);
+            Bag_AddItem(bag, ITEM_MASTER_BALL, 500, HEAP_ID_FIELD2);
+        }
         (*state_p)++;
         break;
     case 1:
