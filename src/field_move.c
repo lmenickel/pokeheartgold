@@ -185,9 +185,6 @@ static u32 FieldMove_CheckCut(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
     }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_HIVE)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
-    }
     if (FieldMove_CheckFlag(checkData, FIELD_MOVE_CHECK_TREE)) {
         return FIELD_MOVE_RESPONSE_OK;
     }
@@ -216,9 +213,6 @@ static BOOL Task_UseCutInField(TaskManager *taskManager) {
 static u32 FieldMove_CheckFly(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
-    }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_STORM)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
     }
     if (!MapHeader_IsFlyAllowed(checkData->mapId)) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
@@ -249,9 +243,6 @@ static void FieldMove_UseFly(FieldMoveUseData *useData, const FieldMoveCheckData
 static u32 FieldMove_CheckSurf(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
-    }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_FOG)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
     }
     if (PlayerAvatar_GetState(checkData->fieldSystem->playerAvatar) == PLAYER_STATE_SURFING) {
         return FIELD_MOVE_RESPONSE_ALREADY_SURFING;
@@ -291,9 +282,6 @@ static u32 FieldMove_CheckStrength(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
     }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_PLAIN)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
-    }
     if (checkData->mapId == MAP_ICE_PATH_B2F) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
     }
@@ -325,9 +313,6 @@ static BOOL Task_UseStrengthInField(TaskManager *taskManager) {
 static u32 FieldMove_CheckRockSmash(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
-    }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_ZEPHYR)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
     }
     if (FieldMove_CheckFlag(checkData, FIELD_MOVE_CHECK_BREAKROCK)) {
         return FIELD_MOVE_RESPONSE_OK;
@@ -361,9 +346,6 @@ static u32 FieldMove_CheckWaterfall(const FieldMoveCheckData *checkData) {
     if (PlayerAvatar_GetState(checkData->fieldSystem->playerAvatar) != PLAYER_STATE_SURFING) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
     }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_RISING)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
-    }
     if (FieldMove_CheckFlag(checkData, FIELD_MOVE_CHECK_WATERFALL)) {
         return FIELD_MOVE_RESPONSE_OK;
     }
@@ -392,9 +374,6 @@ static BOOL Task_UseWaterfallInField(TaskManager *taskManager) {
 static u32 FieldMove_CheckRockClimb(const FieldMoveCheckData *checkData) {
     if (checkData->fieldSystem->unk70 == 2 || checkData->fieldSystem->unk70 == 3) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
-    }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_EARTH)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
     }
     if (!FieldMove_CheckFlag(checkData, FIELD_MOVE_CHECK_ROCKCLIMB)) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
@@ -603,9 +582,6 @@ static u32 FieldMove_CheckWhirlpool(const FieldMoveCheckData *checkData) {
     }
     if (PlayerAvatar_GetState(checkData->fieldSystem->playerAvatar) != PLAYER_STATE_SURFING) {
         return FIELD_MOVE_RESPONSE_NOT_HERE;
-    }
-    if (!PlayerProfile_TestBadgeFlag(Save_PlayerData_GetProfile(checkData->fieldSystem->saveData), BADGE_GLACIER)) {
-        return FIELD_MOVE_RESPONSE_NEED_BADGE;
     }
     if (FieldMove_CheckFlag(checkData, FIELD_MOVE_CHECK_WHIRLPOOL)) {
         return FIELD_MOVE_RESPONSE_OK;

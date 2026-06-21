@@ -36,6 +36,9 @@ build-cmake-*
 */baserom.*
 *.dump
 
+# JSON files in scripts dir
+scripts/*.json
+
 # For decomp.me
 ctx.c
 
