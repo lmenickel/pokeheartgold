@@ -17638,6 +17638,7 @@
         "EGG_GROUP_WATER_2"
       ],
       "abilities": [
+        "ABILITY_SNIPER",
         "ABILITY_SNIPER"
       ],
       "greatMarshRate": 0,

@@ -45,7 +45,7 @@ static BOOL CreateStarter(TaskManager *taskManager) {
             const int species[] = {
                 SPECIES_CHIKORITA,
                 SPECIES_CYNDAQUIL,
-                SPECIES_TOTODILE,
+                SPECIES_OCTILLERY,
             };
             mapsec = MapHeader_GetMapSec(fieldSystem->location->mapId); // sp14
 
@@ -55,8 +55,15 @@ static BOOL CreateStarter(TaskManager *taskManager) {
             for (i = 0; i < (int)NELEMS(species); i++) {
                 Pokemon *mon = &env->args->starters[i];
                 PlayerProfile *profile = Save_PlayerData_GetProfile(fieldSystem->saveData);
+                int hasFixedPersonality = FALSE;
+                u32 fixedPersonality = 0;
                 ZeroMonData(mon);
-                CreateMon(mon, species[i], 5, 32, FALSE, 0, OT_ID_PLAYER_ID, 0);
+                // Force the Octillery starter to be shiny for this player's trainer ID.
+                if (species[i] == SPECIES_OCTILLERY) {
+                    hasFixedPersonality = TRUE;
+                    fixedPersonality = GenerateShinyPersonality(PlayerProfile_GetTrainerID(profile));
+                }
+                CreateMon(mon, species[i], 5, 32, hasFixedPersonality, fixedPersonality, OT_ID_PLAYER_ID, 0);
                 sub_020720FC(mon, profile, BALL_POKE, mapsec, 12, HEAP_ID_FIELD2);
                 {
                     int item = ITEM_NONE;
