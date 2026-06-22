@@ -67,7 +67,7 @@ void sub_02072190(BoxPokemon *boxMon, PlayerProfile *a1, u32 pokeball, u32 a3, u
 #define CHECKSUM(boxMon)       CalcMonChecksum((u16 *)(boxMon)->dataBlocks, sizeof((boxMon)->dataBlocks))
 #define SHINY_CHECK(otid, pid) ((                                                                                                              \
                                     (((otid) & 0xFFFF0000u) >> 16u) ^ ((otid) & 0xFFFFu) ^ (((pid) & 0xFFFF0000u) >> 16u) ^ ((pid) & 0xFFFFu)) \
-    < 8u)
+    < 0x8000u)
 #define CALC_UNOWN_LETTER(pid) ((u32)((((pid) & 0x3000000) >> 18) | (((pid) & 0x30000) >> 12) | (((pid) & 0x300) >> 6) | (((pid) & 0x3) >> 0)) % 28u)
 
 static const s8 sFlavorPreferencesByNature[NATURE_NUM][FLAVOR_MAX] = {
