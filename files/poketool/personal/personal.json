@@ -431,7 +431,7 @@
       "spdef": 85,
       "types": [
         "TYPE_FIRE",
-        "TYPE_FLYING"
+        "TYPE_DRAGON"
       ],
       "catchRate": 45,
       "expYield": 209,
@@ -676,7 +676,7 @@
       "spdef": 105,
       "types": [
         "TYPE_WATER",
-        "TYPE_WATER"
+        "TYPE_STEEL"
       ],
       "catchRate": 45,
       "expYield": 210,
@@ -1460,8 +1460,8 @@
       "spatk": 31,
       "spdef": 31,
       "types": [
-        "TYPE_NORMAL",
-        "TYPE_FLYING"
+        "TYPE_FLYING",
+        "TYPE_DARK"
       ],
       "catchRate": 255,
       "expYield": 58,
@@ -1529,8 +1529,8 @@
       "spatk": 61,
       "spdef": 61,
       "types": [
-        "TYPE_NORMAL",
-        "TYPE_FLYING"
+        "TYPE_FLYING",
+        "TYPE_DARK"
       ],
       "catchRate": 90,
       "expYield": 162,
@@ -1601,7 +1601,7 @@
       "spdef": 54,
       "types": [
         "TYPE_POISON",
-        "TYPE_POISON"
+        "TYPE_DARK"
       ],
       "catchRate": 255,
       "expYield": 62,
@@ -1669,15 +1669,15 @@
     },
     {
       "species": "ARBOK",
-      "hp": 60,
-      "atk": 85,
-      "def": 69,
-      "speed": 80,
+      "hp": 80,
+      "atk": 95,
+      "def": 71,
+      "speed": 99,
       "spatk": 65,
-      "spdef": 79,
+      "spdef": 80,
       "types": [
         "TYPE_POISON",
-        "TYPE_POISON"
+        "TYPE_DARK"
       ],
       "catchRate": 90,
       "expYield": 147,
@@ -2078,7 +2078,7 @@
       "spatk": 40,
       "spdef": 40,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_POISON"
       ],
       "catchRate": 235,
@@ -2156,7 +2156,7 @@
       "spatk": 55,
       "spdef": 55,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_POISON"
       ],
       "catchRate": 120,
@@ -2234,7 +2234,7 @@
       "spatk": 75,
       "spdef": 85,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_GROUND"
       ],
       "catchRate": 45,
@@ -2335,7 +2335,7 @@
       "spatk": 40,
       "spdef": 40,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_POISON"
       ],
       "catchRate": 235,
@@ -2412,7 +2412,7 @@
       "spatk": 55,
       "spdef": 55,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_POISON"
       ],
       "catchRate": 120,
@@ -2489,7 +2489,7 @@
       "spatk": 85,
       "spdef": 75,
       "types": [
-        "TYPE_POISON",
+        "TYPE_DARK",
         "TYPE_GROUND"
       ],
       "catchRate": 45,
@@ -2781,7 +2781,7 @@
       "spdef": 65,
       "types": [
         "TYPE_FIRE",
-        "TYPE_FIRE"
+        "TYPE_GHOST"
       ],
       "catchRate": 190,
       "expYield": 63,
@@ -2844,15 +2844,15 @@
     },
     {
       "species": "NINETALES",
-      "hp": 73,
-      "atk": 76,
+      "hp": 80,
+      "atk": 43,
       "def": 75,
       "speed": 100,
-      "spatk": 81,
+      "spatk": 107,
       "spdef": 100,
       "types": [
         "TYPE_FIRE",
-        "TYPE_FIRE"
+        "TYPE_GHOST"
       ],
       "catchRate": 75,
       "expYield": 178,
@@ -3485,7 +3485,7 @@
       "spdef": 55,
       "types": [
         "TYPE_BUG",
-        "TYPE_GRASS"
+        "TYPE_BUG"
       ],
       "catchRate": 190,
       "expYield": 70,
@@ -3562,7 +3562,7 @@
       "spdef": 80,
       "types": [
         "TYPE_BUG",
-        "TYPE_GRASS"
+        "TYPE_GHOST"
       ],
       "catchRate": 75,
       "expYield": 128,
@@ -4099,7 +4099,7 @@
       "spdef": 50,
       "types": [
         "TYPE_WATER",
-        "TYPE_WATER"
+        "TYPE_PSYCHIC"
       ],
       "catchRate": 190,
       "expYield": 80,
@@ -4173,15 +4173,15 @@
     },
     {
       "species": "GOLDUCK",
-      "hp": 80,
-      "atk": 82,
-      "def": 78,
-      "speed": 85,
+      "hp": 90,
+      "atk": 50,
+      "def": 80,
+      "speed": 105,
       "spatk": 95,
       "spdef": 80,
       "types": [
         "TYPE_WATER",
-        "TYPE_WATER"
+        "TYPE_PSYCHIC"
       ],
       "catchRate": 75,
       "expYield": 174,
@@ -5540,7 +5540,7 @@
       "spdef": 100,
       "types": [
         "TYPE_WATER",
-        "TYPE_POISON"
+        "TYPE_DARK"
       ],
       "catchRate": 190,
       "expYield": 105,
@@ -5616,7 +5616,7 @@
       "spdef": 120,
       "types": [
         "TYPE_WATER",
-        "TYPE_POISON"
+        "TYPE_DARK"
       ],
       "catchRate": 60,
       "expYield": 205,
@@ -5694,7 +5694,7 @@
       "spdef": 30,
       "types": [
         "TYPE_ROCK",
-        "TYPE_GROUND"
+        "TYPE_ROCK"
       ],
       "catchRate": 255,
       "expYield": 73,
@@ -5773,7 +5773,7 @@
       "spdef": 45,
       "types": [
         "TYPE_ROCK",
-        "TYPE_GROUND"
+        "TYPE_ROCK"
       ],
       "catchRate": 120,
       "expYield": 134,
@@ -5852,7 +5852,7 @@
       "spdef": 65,
       "types": [
         "TYPE_ROCK",
-        "TYPE_GROUND"
+        "TYPE_ROCK"
       ],
       "catchRate": 45,
       "expYield": 177,
@@ -7079,7 +7079,7 @@
       "spdef": 35,
       "types": [
         "TYPE_GHOST",
-        "TYPE_POISON"
+        "TYPE_GHOST"
       ],
       "catchRate": 190,
       "expYield": 95,
@@ -7159,7 +7159,7 @@
       "spdef": 55,
       "types": [
         "TYPE_GHOST",
-        "TYPE_POISON"
+        "TYPE_GHOST"
       ],
       "catchRate": 90,
       "expYield": 126,
@@ -7242,7 +7242,7 @@
       "spdef": 75,
       "types": [
         "TYPE_GHOST",
-        "TYPE_POISON"
+        "TYPE_GHOST"
       ],
       "catchRate": 45,
       "expYield": 190,
@@ -7327,12 +7327,12 @@
     },
     {
       "species": "ONIX",
-      "hp": 35,
-      "atk": 45,
+      "hp": 90,
+      "atk": 80,
       "def": 160,
       "speed": 70,
       "spatk": 30,
-      "spdef": 45,
+      "spdef": 70,
       "types": [
         "TYPE_ROCK",
         "TYPE_GROUND"
@@ -7417,7 +7417,7 @@
       "spdef": 90,
       "types": [
         "TYPE_PSYCHIC",
-        "TYPE_PSYCHIC"
+        "TYPE_DARK"
       ],
       "catchRate": 190,
       "expYield": 102,
@@ -7500,7 +7500,7 @@
       "spdef": 115,
       "types": [
         "TYPE_PSYCHIC",
-        "TYPE_PSYCHIC"
+        "TYPE_DARK"
       ],
       "catchRate": 75,
       "expYield": 165,
@@ -8132,7 +8132,7 @@
       "spdef": 80,
       "types": [
         "TYPE_GROUND",
-        "TYPE_GROUND"
+        "TYPE_GHOST"
       ],
       "catchRate": 75,
       "expYield": 124,
@@ -9942,7 +9942,7 @@
       "spdef": 70,
       "types": [
         "TYPE_BUG",
-        "TYPE_BUG"
+        "TYPE_DARK"
       ],
       "catchRate": 45,
       "expYield": 200,
@@ -10152,7 +10152,7 @@
       "spdef": 100,
       "types": [
         "TYPE_WATER",
-        "TYPE_FLYING"
+        "TYPE_DRAGON"
       ],
       "catchRate": 45,
       "expYield": 214,
@@ -11060,7 +11060,7 @@
       "spdef": 75,
       "types": [
         "TYPE_ROCK",
-        "TYPE_FLYING"
+        "TYPE_DRAGON"
       ],
       "catchRate": 45,
       "expYield": 202,
@@ -12756,12 +12756,12 @@
     },
     {
       "species": "FURRET",
-      "hp": 85,
-      "atk": 76,
-      "def": 64,
+      "hp": 95,
+      "atk": 90,
+      "def": 75,
       "speed": 90,
       "spatk": 45,
-      "spdef": 55,
+      "spdef": 75,
       "types": [
         "TYPE_NORMAL",
         "TYPE_NORMAL"
@@ -12852,7 +12852,7 @@
       "spatk": 36,
       "spdef": 56,
       "types": [
-        "TYPE_NORMAL",
+        "TYPE_PSYCHIC",
         "TYPE_FLYING"
       ],
       "catchRate": 255,
@@ -12922,12 +12922,12 @@
       "species": "NOCTOWL",
       "hp": 100,
       "atk": 50,
-      "def": 50,
-      "speed": 70,
-      "spatk": 76,
-      "spdef": 96,
+      "def": 60,
+      "speed": 90,
+      "spatk": 95,
+      "spdef": 95,
       "types": [
-        "TYPE_NORMAL",
+        "TYPE_PSYCHIC",
         "TYPE_FLYING"
       ],
       "catchRate": 90,
@@ -13005,7 +13005,7 @@
       "spdef": 80,
       "types": [
         "TYPE_BUG",
-        "TYPE_FLYING"
+        "TYPE_FIGHTING"
       ],
       "catchRate": 255,
       "expYield": 54,
@@ -13075,14 +13075,14 @@
     {
       "species": "LEDIAN",
       "hp": 55,
-      "atk": 35,
-      "def": 50,
+      "atk": 85,
+      "def": 70,
       "speed": 85,
       "spatk": 55,
       "spdef": 110,
       "types": [
         "TYPE_BUG",
-        "TYPE_FLYING"
+        "TYPE_FIGHTING"
       ],
       "catchRate": 90,
       "expYield": 134,
@@ -13225,12 +13225,12 @@
     },
     {
       "species": "ARIADOS",
-      "hp": 70,
+      "hp": 80,
       "atk": 90,
-      "def": 70,
-      "speed": 40,
+      "def": 75,
+      "speed": 85,
       "spatk": 60,
-      "spdef": 60,
+      "spdef": 75,
       "types": [
         "TYPE_BUG",
         "TYPE_POISON"
@@ -13452,10 +13452,10 @@
       "species": "LANTURN",
       "hp": 125,
       "atk": 58,
-      "def": 58,
-      "speed": 67,
-      "spatk": 76,
-      "spdef": 76,
+      "def": 85,
+      "speed": 30,
+      "spatk": 97,
+      "spdef": 85,
       "types": [
         "TYPE_WATER",
         "TYPE_ELECTRIC"
@@ -14234,9 +14234,9 @@
     },
     {
       "species": "AMPHAROS",
-      "hp": 90,
-      "atk": 75,
-      "def": 75,
+      "hp": 95,
+      "atk": 65,
+      "def": 90,
       "speed": 55,
       "spatk": 115,
       "spdef": 90,
@@ -14844,11 +14844,11 @@
     {
       "species": "JUMPLUFF",
       "hp": 75,
-      "atk": 55,
-      "def": 70,
+      "atk": 75,
+      "def": 90,
       "speed": 110,
       "spatk": 55,
-      "spdef": 85,
+      "spdef": 95,
       "types": [
         "TYPE_GRASS",
         "TYPE_FLYING"
@@ -15073,9 +15073,9 @@
     },
     {
       "species": "SUNFLORA",
-      "hp": 75,
-      "atk": 75,
-      "def": 55,
+      "hp": 100,
+      "atk": 25,
+      "def": 80,
       "speed": 30,
       "spatk": 105,
       "spdef": 85,
@@ -15299,7 +15299,7 @@
       "def": 85,
       "speed": 35,
       "spatk": 65,
-      "spdef": 65,
+      "spdef": 85,
       "types": [
         "TYPE_WATER",
         "TYPE_GROUND"
@@ -17763,10 +17763,10 @@
     },
     {
       "species": "MANTINE",
-      "hp": 65,
-      "atk": 40,
-      "def": 70,
-      "speed": 70,
+      "hp": 85,
+      "atk": 30,
+      "def": 85,
+      "speed": 90,
       "spatk": 80,
       "spdef": 140,
       "types": [
@@ -17839,12 +17839,12 @@
     },
     {
       "species": "SKARMORY",
-      "hp": 65,
+      "hp": 80,
       "atk": 80,
       "def": 140,
-      "speed": 70,
+      "speed": 90,
       "spatk": 40,
-      "spdef": 70,
+      "spdef": 80,
       "types": [
         "TYPE_STEEL",
         "TYPE_FLYING"
@@ -18226,11 +18226,11 @@
     {
       "species": "DONPHAN",
       "hp": 90,
-      "atk": 120,
+      "atk": 100,
       "def": 120,
-      "speed": 50,
+      "speed": 80,
       "spatk": 60,
-      "spdef": 60,
+      "spdef": 80,
       "types": [
         "TYPE_GROUND",
         "TYPE_GROUND"
@@ -18380,12 +18380,12 @@
     },
     {
       "species": "STANTLER",
-      "hp": 73,
-      "atk": 95,
-      "def": 62,
+      "hp": 100,
+      "atk": 83,
+      "def": 90,
       "speed": 85,
-      "spatk": 85,
-      "spdef": 65,
+      "spatk": 62,
+      "spdef": 80,
       "types": [
         "TYPE_NORMAL",
         "TYPE_NORMAL"
@@ -37095,7 +37095,7 @@
       "spdef": 56,
       "types": [
         "TYPE_BUG",
-        "TYPE_FLYING"
+        "TYPE_DRAGON"
       ],
       "catchRate": 30,
       "expYield": 198,
