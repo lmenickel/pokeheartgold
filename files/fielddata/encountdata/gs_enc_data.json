@@ -184,7 +184,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_BULBASAUR",
        "day": "SPECIES_CLAMPERL",
@@ -192,7 +192,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_GEODUDE",
        "day": "SPECIES_MIME_JR",
@@ -200,7 +200,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_DRATINI",
        "day": "SPECIES_BULBASAUR",
@@ -208,7 +208,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_SWINUB",
        "day": "SPECIES_GEODUDE",
@@ -216,7 +216,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_WHISMUR",
        "day": "SPECIES_DRATINI",
@@ -224,7 +224,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_CLAMPERL",
        "day": "SPECIES_SWINUB",
@@ -232,7 +232,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_MIME_JR",
        "day": "SPECIES_WHISMUR",
@@ -241,8 +241,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 2,
-       "SOULSILVER": 4
+       "HEARTGOLD": 4,
+       "SOULSILVER": 8
       },
       "species": {
        "morn": "SPECIES_BULBASAUR",
@@ -252,8 +252,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 4,
-       "SOULSILVER": 2
+       "HEARTGOLD": 8,
+       "SOULSILVER": 4
       },
       "species": {
        "morn": "SPECIES_GEODUDE",
@@ -262,7 +262,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_DRATINI",
        "day": "SPECIES_BULBASAUR",
@@ -271,8 +271,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 4,
-       "SOULSILVER": 2
+       "HEARTGOLD": 8,
+       "SOULSILVER": 4
       },
       "species": {
        "morn": "SPECIES_SWINUB",
@@ -281,7 +281,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_WHISMUR",
        "day": "SPECIES_DRATINI",
@@ -507,8 +507,8 @@
     "mons": [
      {
       "level": {
-       "HEARTGOLD": 2,
-       "SOULSILVER": 3
+       "HEARTGOLD": 4,
+       "SOULSILVER": 6
       },
       "species": {
        "morn": "SPECIES_IVYSAUR",
@@ -517,7 +517,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_GRAVELER",
        "day": "SPECIES_HAPPINY",
@@ -526,8 +526,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 2,
-       "SOULSILVER": 3
+       "HEARTGOLD": 4,
+       "SOULSILVER": 6
       },
       "species": {
        "morn": "SPECIES_DRAGONAIR",
@@ -536,7 +536,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_PILOSWINE",
        "day": "SPECIES_GRAVELER",
@@ -544,7 +544,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_LOUDRED",
        "day": "SPECIES_DRAGONAIR",
@@ -552,7 +552,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_HUNTAIL",
        "day": "SPECIES_PILOSWINE",
@@ -560,7 +560,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_HAPPINY",
        "day": "SPECIES_LOUDRED",
@@ -568,7 +568,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_IVYSAUR",
        "day": "SPECIES_HUNTAIL",
@@ -576,7 +576,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_GRAVELER",
        "day": "SPECIES_HAPPINY",
@@ -584,7 +584,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_DRAGONAIR",
        "day": "SPECIES_IVYSAUR",
@@ -592,7 +592,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_PILOSWINE",
        "day": "SPECIES_GRAVELER",
@@ -600,7 +600,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_LOUDRED",
        "day": "SPECIES_DRAGONAIR",
@@ -798,8 +798,8 @@
     "mons": [
      {
       "level": {
-       "HEARTGOLD": 3,
-       "SOULSILVER": 4
+       "HEARTGOLD": 5,
+       "SOULSILVER": 8
       },
       "species": {
        "morn": "SPECIES_VENUSAUR",
@@ -808,7 +808,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_GOLEM",
        "day": "SPECIES_CHATOT",
@@ -817,8 +817,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 3,
-       "SOULSILVER": 4
+       "HEARTGOLD": 5,
+       "SOULSILVER": 8
       },
       "species": {
        "morn": "SPECIES_DRAGONITE",
@@ -827,7 +827,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_CORSOLA",
        "day": "SPECIES_GOLEM",
@@ -835,7 +835,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 5,
       "species": {
        "morn": "SPECIES_EXPLOUD",
        "day": "SPECIES_DRAGONITE",
@@ -843,7 +843,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 5,
       "species": {
        "morn": "SPECIES_GOREBYSS",
        "day": "SPECIES_CORSOLA",
@@ -851,7 +851,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_CHATOT",
        "day": "SPECIES_EXPLOUD",
@@ -859,7 +859,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_VENUSAUR",
        "day": "SPECIES_GOREBYSS",
@@ -867,7 +867,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_GOLEM",
        "day": "SPECIES_CHATOT",
@@ -875,7 +875,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_DRAGONITE",
        "day": "SPECIES_VENUSAUR",
@@ -883,7 +883,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_CORSOLA",
        "day": "SPECIES_GOLEM",
@@ -891,7 +891,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 10,
       "species": {
        "morn": "SPECIES_EXPLOUD",
        "day": "SPECIES_DRAGONITE",
@@ -1536,7 +1536,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_CHARIZARD",
        "day": "SPECIES_BAGON",
@@ -1544,7 +1544,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 6,
       "species": {
        "morn": "SPECIES_SLOWPOKE",
        "day": "SPECIES_GABITE",
@@ -1552,7 +1552,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_CHIKORITA",
        "day": "SPECIES_CHARIZARD",
@@ -1560,7 +1560,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 6,
       "species": {
        "morn": "SPECIES_DELIBIRD",
        "day": "SPECIES_SLOWPOKE",
@@ -1568,7 +1568,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_AZURILL",
        "day": "SPECIES_CHIKORITA",
@@ -1576,7 +1576,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_BAGON",
        "day": "SPECIES_DELIBIRD",
@@ -1584,7 +1584,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_GABITE",
        "day": "SPECIES_AZURILL",
@@ -1592,7 +1592,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_CHARIZARD",
        "day": "SPECIES_BAGON",
@@ -1600,7 +1600,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_SLOWPOKE",
        "day": "SPECIES_GABITE",
@@ -1608,7 +1608,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 6,
       "species": {
        "morn": "SPECIES_CHIKORITA",
        "day": "SPECIES_CHARIZARD",
@@ -1616,7 +1616,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 12,
       "species": {
        "morn": "SPECIES_DELIBIRD",
        "day": "SPECIES_SLOWPOKE",
@@ -1624,7 +1624,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 6,
       "species": {
        "morn": "SPECIES_AZURILL",
        "day": "SPECIES_CHIKORITA",
@@ -1818,7 +1818,7 @@
     "rate": 10,
     "mons": [
      {
-      "level": 20,
+      "level": 21,
       "species": {
        "morn": "SPECIES_SQUIRTLE",
        "day": "SPECIES_SHELGON",
@@ -1834,7 +1834,7 @@
       }
      },
      {
-      "level": 20,
+      "level": 21,
       "species": {
        "morn": "SPECIES_BAYLEEF",
        "day": "SPECIES_SQUIRTLE",
@@ -1850,7 +1850,7 @@
       }
      },
      {
-      "level": 18,
+      "level": 19,
       "species": {
        "morn": "SPECIES_NOSEPASS",
        "day": "SPECIES_BAYLEEF",
@@ -1858,7 +1858,7 @@
       }
      },
      {
-      "level": 18,
+      "level": 19,
       "species": {
        "morn": "SPECIES_SHELGON",
        "day": "SPECIES_MANTINE",
@@ -1882,7 +1882,7 @@
       }
      },
      {
-      "level": 20,
+      "level": 21,
       "species": {
        "morn": "SPECIES_SLOWBRO",
        "day": "SPECIES_GARCHOMP",
@@ -1898,7 +1898,7 @@
       }
      },
      {
-      "level": 20,
+      "level": 21,
       "species": {
        "morn": "SPECIES_MANTINE",
        "day": "SPECIES_SLOWBRO",
@@ -2115,7 +2115,7 @@
     "rate": 15,
     "mons": [
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_WARTORTLE",
        "day": "SPECIES_SALAMENCE",
@@ -2123,7 +2123,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAGNEMITE",
        "day": "SPECIES_MUNCHLAX",
@@ -2131,7 +2131,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MEGANIUM",
        "day": "SPECIES_WARTORTLE",
@@ -2139,7 +2139,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SKARMORY",
        "day": "SPECIES_MAGNEMITE",
@@ -2147,7 +2147,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SKITTY",
        "day": "SPECIES_MEGANIUM",
@@ -2155,7 +2155,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SALAMENCE",
        "day": "SPECIES_SKARMORY",
@@ -2163,7 +2163,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MUNCHLAX",
        "day": "SPECIES_SKITTY",
@@ -2171,7 +2171,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_WARTORTLE",
        "day": "SPECIES_SALAMENCE",
@@ -2179,7 +2179,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAGNEMITE",
        "day": "SPECIES_MUNCHLAX",
@@ -2187,7 +2187,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MEGANIUM",
        "day": "SPECIES_WARTORTLE",
@@ -2195,7 +2195,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SKARMORY",
        "day": "SPECIES_MAGNEMITE",
@@ -2203,7 +2203,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SKITTY",
        "day": "SPECIES_MEGANIUM",
@@ -2250,7 +2250,7 @@
     "rate": 15,
     "mons": [
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_BLASTOISE",
        "day": "SPECIES_BELDUM",
@@ -2258,7 +2258,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAGNETON",
        "day": "SPECIES_RIOLU",
@@ -2266,7 +2266,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_CYNDAQUIL",
        "day": "SPECIES_BLASTOISE",
@@ -2274,7 +2274,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_HOUNDOUR",
        "day": "SPECIES_MAGNETON",
@@ -2282,7 +2282,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_DELCATTY",
        "day": "SPECIES_CYNDAQUIL",
@@ -2290,7 +2290,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_BELDUM",
        "day": "SPECIES_HOUNDOUR",
@@ -2298,7 +2298,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_RIOLU",
        "day": "SPECIES_DELCATTY",
@@ -2306,7 +2306,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_BLASTOISE",
        "day": "SPECIES_BELDUM",
@@ -2314,7 +2314,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAGNETON",
        "day": "SPECIES_RIOLU",
@@ -2322,7 +2322,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_CYNDAQUIL",
        "day": "SPECIES_BLASTOISE",
@@ -2330,7 +2330,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_HOUNDOUR",
        "day": "SPECIES_MAGNETON",
@@ -2338,7 +2338,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_DELCATTY",
        "day": "SPECIES_CYNDAQUIL",
@@ -2385,7 +2385,7 @@
     "rate": 15,
     "mons": [
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_CATERPIE",
        "day": "SPECIES_METANG",
@@ -2393,7 +2393,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_FARFETCHD",
        "day": "SPECIES_LUCARIO",
@@ -2401,7 +2401,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_QUILAVA",
        "day": "SPECIES_CATERPIE",
@@ -2409,7 +2409,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_HOUNDOOM",
        "day": "SPECIES_FARFETCHD",
@@ -2417,7 +2417,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SABLEYE",
        "day": "SPECIES_QUILAVA",
@@ -2425,7 +2425,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_METANG",
        "day": "SPECIES_HOUNDOOM",
@@ -2433,7 +2433,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_LUCARIO",
        "day": "SPECIES_SABLEYE",
@@ -2441,7 +2441,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_CATERPIE",
        "day": "SPECIES_METANG",
@@ -2449,7 +2449,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_FARFETCHD",
        "day": "SPECIES_LUCARIO",
@@ -2457,7 +2457,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_QUILAVA",
        "day": "SPECIES_CATERPIE",
@@ -2465,7 +2465,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_HOUNDOOM",
        "day": "SPECIES_FARFETCHD",
@@ -2473,7 +2473,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SABLEYE",
        "day": "SPECIES_QUILAVA",
@@ -2520,7 +2520,7 @@
     "rate": 15,
     "mons": [
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_METAPOD",
        "day": "SPECIES_METAGROSS",
@@ -2528,7 +2528,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_DODUO",
        "day": "SPECIES_HIPPOPOTAS",
@@ -2536,7 +2536,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_TYPHLOSION",
        "day": "SPECIES_METAPOD",
@@ -2544,7 +2544,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_KINGDRA",
        "day": "SPECIES_DODUO",
@@ -2552,7 +2552,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAWILE",
        "day": "SPECIES_TYPHLOSION",
@@ -2560,7 +2560,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_METAGROSS",
        "day": "SPECIES_KINGDRA",
@@ -2568,7 +2568,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_HIPPOPOTAS",
        "day": "SPECIES_MAWILE",
@@ -2576,7 +2576,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_METAPOD",
        "day": "SPECIES_METAGROSS",
@@ -2584,7 +2584,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_DODUO",
        "day": "SPECIES_HIPPOPOTAS",
@@ -2592,7 +2592,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_TYPHLOSION",
        "day": "SPECIES_METAPOD",
@@ -2600,7 +2600,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_KINGDRA",
        "day": "SPECIES_DODUO",
@@ -2608,7 +2608,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MAWILE",
        "day": "SPECIES_TYPHLOSION",
@@ -3501,7 +3501,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_BEEDRILL",
        "day": "SPECIES_LATIAS",
@@ -3509,7 +3509,7 @@
       }
      },
      {
-      "level": 7,
+      "level": 11,
       "species": {
        "morn": "SPECIES_GRIMER",
        "day": "SPECIES_CROAGUNK",
@@ -3517,7 +3517,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_SENTRET",
        "day": "SPECIES_BEEDRILL",
@@ -3525,7 +3525,7 @@
       }
      },
      {
-      "level": 7,
+      "level": 11,
       "species": {
        "morn": "SPECIES_STANTLER",
        "day": "SPECIES_GRIMER",
@@ -3533,7 +3533,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_MEDITITE",
        "day": "SPECIES_SENTRET",
@@ -3541,7 +3541,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_LATIAS",
        "day": "SPECIES_STANTLER",
@@ -3549,7 +3549,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_CROAGUNK",
        "day": "SPECIES_MEDITITE",
@@ -3557,7 +3557,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 10,
       "species": {
        "morn": "SPECIES_BEEDRILL",
        "day": "SPECIES_LATIAS",
@@ -3565,7 +3565,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 12,
       "species": {
        "morn": "SPECIES_GRIMER",
        "day": "SPECIES_CROAGUNK",
@@ -3573,7 +3573,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 7,
       "species": {
        "morn": "SPECIES_SENTRET",
        "day": "SPECIES_BEEDRILL",
@@ -3581,7 +3581,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 12,
       "species": {
        "morn": "SPECIES_STANTLER",
        "day": "SPECIES_GRIMER",
@@ -3589,7 +3589,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 7,
       "species": {
        "morn": "SPECIES_MEDITITE",
        "day": "SPECIES_SENTRET",
@@ -3636,7 +3636,7 @@
     "rate": 5,
     "mons": [
      {
-      "level": 5,
+      "level": 8,
       "species": {
        "morn": "SPECIES_PIDGEY",
        "day": "SPECIES_LATIOS",
@@ -3644,7 +3644,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 9,
       "species": {
        "morn": "SPECIES_MUK",
        "day": "SPECIES_TOXICROAK",
@@ -3652,7 +3652,7 @@
       }
      },
      {
-      "level": 5,
+      "level": 8,
       "species": {
        "morn": "SPECIES_FURRET",
        "day": "SPECIES_PIDGEY",
@@ -3660,7 +3660,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 9,
       "species": {
        "morn": "SPECIES_SMEARGLE",
        "day": "SPECIES_MUK",
@@ -3668,7 +3668,7 @@
       }
      },
      {
-      "level": 7,
+      "level": 10,
       "species": {
        "morn": "SPECIES_MEDICHAM",
        "day": "SPECIES_FURRET",
@@ -3676,7 +3676,7 @@
       }
      },
      {
-      "level": 7,
+      "level": 10,
       "species": {
        "morn": "SPECIES_LATIOS",
        "day": "SPECIES_SMEARGLE",
@@ -3684,7 +3684,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 9,
       "species": {
        "morn": "SPECIES_TOXICROAK",
        "day": "SPECIES_MEDICHAM",
@@ -3692,7 +3692,7 @@
       }
      },
      {
-      "level": 6,
+      "level": 9,
       "species": {
        "morn": "SPECIES_PIDGEY",
        "day": "SPECIES_LATIOS",
@@ -3700,7 +3700,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 10,
       "species": {
        "morn": "SPECIES_MUK",
        "day": "SPECIES_TOXICROAK",
@@ -3708,7 +3708,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 10,
       "species": {
        "morn": "SPECIES_FURRET",
        "day": "SPECIES_PIDGEY",
@@ -3716,7 +3716,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 10,
       "species": {
        "morn": "SPECIES_SMEARGLE",
        "day": "SPECIES_MUK",
@@ -3724,7 +3724,7 @@
       }
      },
      {
-      "level": 8,
+      "level": 10,
       "species": {
        "morn": "SPECIES_MEDICHAM",
        "day": "SPECIES_FURRET",
@@ -3950,7 +3950,7 @@
       }
      },
      {
-      "level": 19,
+      "level": 20,
       "species": {
        "morn": "SPECIES_ELECTRIKE",
        "day": "SPECIES_HOOTHOOT",
@@ -3958,7 +3958,7 @@
       }
      },
      {
-      "level": 19,
+      "level": 20,
       "species": {
        "morn": "SPECIES_KYOGRE",
        "day": "SPECIES_TYROGUE",
@@ -4485,7 +4485,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_RATTATA",
        "day": "SPECIES_RAYQUAZA",
@@ -4493,7 +4493,7 @@
       }
      },
      {
-      "level": 11,
+      "level": 15,
       "species": {
        "morn": "SPECIES_GASTLY",
        "day": "SPECIES_LUMINEON",
@@ -4501,7 +4501,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_LEDYBA",
        "day": "SPECIES_RATTATA",
@@ -4509,7 +4509,7 @@
       }
      },
      {
-      "level": 11,
+      "level": 15,
       "species": {
        "morn": "SPECIES_SMOOCHUM",
        "day": "SPECIES_GASTLY",
@@ -4517,7 +4517,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_PLUSLE",
        "day": "SPECIES_LEDYBA",
@@ -4525,7 +4525,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_RAYQUAZA",
        "day": "SPECIES_SMOOCHUM",
@@ -4533,7 +4533,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_LUMINEON",
        "day": "SPECIES_PLUSLE",
@@ -4541,7 +4541,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_RATTATA",
        "day": "SPECIES_RAYQUAZA",
@@ -4549,7 +4549,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 18,
       "species": {
        "morn": "SPECIES_GASTLY",
        "day": "SPECIES_LUMINEON",
@@ -4557,7 +4557,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_LEDYBA",
        "day": "SPECIES_RATTATA",
@@ -4565,7 +4565,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 18,
       "species": {
        "morn": "SPECIES_SMOOCHUM",
        "day": "SPECIES_GASTLY",
@@ -4573,7 +4573,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 13,
       "species": {
        "morn": "SPECIES_PLUSLE",
        "day": "SPECIES_LEDYBA",
@@ -4767,7 +4767,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_RATICATE",
        "day": "SPECIES_JIRACHI",
@@ -4775,7 +4775,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_HAUNTER",
        "day": "SPECIES_MANTYKE",
@@ -4783,7 +4783,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_LEDIAN",
        "day": "SPECIES_RATICATE",
@@ -4791,7 +4791,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_ELEKID",
        "day": "SPECIES_HAUNTER",
@@ -4799,7 +4799,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 19,
       "species": {
        "morn": "SPECIES_MINUN",
        "day": "SPECIES_LEDIAN",
@@ -4807,7 +4807,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 19,
       "species": {
        "morn": "SPECIES_JIRACHI",
        "day": "SPECIES_ELEKID",
@@ -4815,7 +4815,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 14,
       "species": {
        "morn": "SPECIES_MANTYKE",
        "day": "SPECIES_MINUN",
@@ -4823,7 +4823,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 14,
       "species": {
        "morn": "SPECIES_RATICATE",
        "day": "SPECIES_JIRACHI",
@@ -4831,7 +4831,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 19,
       "species": {
        "morn": "SPECIES_HAUNTER",
        "day": "SPECIES_MANTYKE",
@@ -4839,7 +4839,7 @@
       }
      },
      {
-      "level": 10,
+      "level": 14,
       "species": {
        "morn": "SPECIES_LEDIAN",
        "day": "SPECIES_RATICATE",
@@ -4847,7 +4847,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 19,
       "species": {
        "morn": "SPECIES_ELEKID",
        "day": "SPECIES_HAUNTER",
@@ -4855,7 +4855,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 16,
       "species": {
        "morn": "SPECIES_MINUN",
        "day": "SPECIES_LEDIAN",
@@ -5337,7 +5337,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 12,
+      "level": 15,
       "species": {
        "morn": "SPECIES_EKANS",
        "day": "SPECIES_GROTLE",
@@ -5345,7 +5345,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 15,
       "species": {
        "morn": "SPECIES_DROWZEE",
        "day": "SPECIES_WEAVILE",
@@ -5353,7 +5353,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 15,
       "species": {
        "morn": "SPECIES_CROBAT",
        "day": "SPECIES_EKANS",
@@ -5361,7 +5361,7 @@
       }
      },
      {
-      "level": 12,
+      "level": 15,
       "species": {
        "morn": "SPECIES_BLISSEY",
        "day": "SPECIES_DROWZEE",
@@ -5369,7 +5369,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_ROSELIA",
        "day": "SPECIES_CROBAT",
@@ -5377,7 +5377,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_GROTLE",
        "day": "SPECIES_BLISSEY",
@@ -5385,7 +5385,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_WEAVILE",
        "day": "SPECIES_ROSELIA",
@@ -5393,7 +5393,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_EKANS",
        "day": "SPECIES_GROTLE",
@@ -5401,7 +5401,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_DROWZEE",
        "day": "SPECIES_WEAVILE",
@@ -5409,7 +5409,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 20,
       "species": {
        "morn": "SPECIES_CROBAT",
        "day": "SPECIES_EKANS",
@@ -5417,7 +5417,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 17,
       "species": {
        "morn": "SPECIES_BLISSEY",
        "day": "SPECIES_DROWZEE",
@@ -5425,7 +5425,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 20,
       "species": {
        "morn": "SPECIES_ROSELIA",
        "day": "SPECIES_CROBAT",
@@ -5475,7 +5475,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_ARBOK",
        "day": "SPECIES_TORTERRA",
@@ -5483,7 +5483,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_HYPNO",
        "day": "SPECIES_MAGNEZONE",
@@ -5491,7 +5491,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_CHINCHOU",
        "day": "SPECIES_ARBOK",
@@ -5499,7 +5499,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_RAIKOU",
        "day": "SPECIES_HYPNO",
@@ -5507,7 +5507,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_GULPIN",
        "day": "SPECIES_CHINCHOU",
@@ -5515,7 +5515,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_TORTERRA",
        "day": "SPECIES_RAIKOU",
@@ -5523,7 +5523,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 18,
       "species": {
        "morn": "SPECIES_MAGNEZONE",
        "day": "SPECIES_GULPIN",
@@ -5531,7 +5531,7 @@
       }
      },
      {
-      "level": 14,
+      "level": 18,
       "species": {
        "morn": "SPECIES_ARBOK",
        "day": "SPECIES_TORTERRA",
@@ -5539,7 +5539,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_HYPNO",
        "day": "SPECIES_MAGNEZONE",
@@ -5547,7 +5547,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_CHINCHOU",
        "day": "SPECIES_ARBOK",
@@ -5555,7 +5555,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_RAIKOU",
        "day": "SPECIES_HYPNO",
@@ -5563,7 +5563,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 21,
       "species": {
        "morn": "SPECIES_GULPIN",
        "day": "SPECIES_CHINCHOU",
@@ -7141,7 +7141,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_CLEFAIRY",
        "day": "SPECIES_BIBAREL",
@@ -7149,7 +7149,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_LICKITUNG",
        "day": "SPECIES_MAMOSWINE",
@@ -7157,7 +7157,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_AMPHAROS",
        "day": "SPECIES_CLEFAIRY",
@@ -7165,7 +7165,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_SCEPTILE",
        "day": "SPECIES_LICKITUNG",
@@ -7173,7 +7173,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_SPINDA",
        "day": "SPECIES_AMPHAROS",
@@ -7181,7 +7181,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_BIBAREL",
        "day": "SPECIES_SCEPTILE",
@@ -7189,7 +7189,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_MAMOSWINE",
        "day": "SPECIES_SPINDA",
@@ -7197,7 +7197,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 22,
       "species": {
        "morn": "SPECIES_CLEFAIRY",
        "day": "SPECIES_BIBAREL",
@@ -7205,7 +7205,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_LICKITUNG",
        "day": "SPECIES_MAMOSWINE",
@@ -7213,7 +7213,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_AMPHAROS",
        "day": "SPECIES_CLEFAIRY",
@@ -7221,7 +7221,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_SCEPTILE",
        "day": "SPECIES_LICKITUNG",
@@ -7229,7 +7229,7 @@
       }
      },
      {
-      "level": 13,
+      "level": 16,
       "species": {
        "morn": "SPECIES_SPINDA",
        "day": "SPECIES_AMPHAROS",
@@ -7276,7 +7276,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_CLEFABLE",
        "day": "SPECIES_KRICKETOT",
@@ -7284,7 +7284,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_KOFFING",
        "day": "SPECIES_PORYGON_Z",
@@ -7292,7 +7292,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_BELLOSSOM",
        "day": "SPECIES_CLEFABLE",
@@ -7300,7 +7300,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_TORCHIC",
        "day": "SPECIES_KOFFING",
@@ -7308,7 +7308,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_TRAPINCH",
        "day": "SPECIES_BELLOSSOM",
@@ -7316,7 +7316,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_KRICKETOT",
        "day": "SPECIES_TORCHIC",
@@ -7324,7 +7324,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_PORYGON_Z",
        "day": "SPECIES_TRAPINCH",
@@ -7332,7 +7332,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_CLEFABLE",
        "day": "SPECIES_KRICKETOT",
@@ -7340,7 +7340,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_KOFFING",
        "day": "SPECIES_PORYGON_Z",
@@ -7348,7 +7348,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_BELLOSSOM",
        "day": "SPECIES_CLEFABLE",
@@ -7356,7 +7356,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_TORCHIC",
        "day": "SPECIES_KOFFING",
@@ -7364,7 +7364,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_TRAPINCH",
        "day": "SPECIES_BELLOSSOM",
@@ -9118,8 +9118,8 @@
     "mons": [
      {
       "level": {
-       "HEARTGOLD": 15,
-       "SOULSILVER": 13
+       "HEARTGOLD": 29,
+       "SOULSILVER": 26
       },
       "species": {
        "morn": "SPECIES_ZUBAT",
@@ -9129,8 +9129,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 13,
-       "SOULSILVER": 14
+       "HEARTGOLD": 26,
+       "SOULSILVER": 28
       },
       "species": {
        "morn": "SPECIES_TANGELA",
@@ -9140,8 +9140,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 15,
-       "SOULSILVER": 13
+       "HEARTGOLD": 29,
+       "SOULSILVER": 26
       },
       "species": {
        "morn": "SPECIES_HOPPIP",
@@ -9151,8 +9151,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 13,
-       "SOULSILVER": 14
+       "HEARTGOLD": 26,
+       "SOULSILVER": 28
       },
       "species": {
        "morn": "SPECIES_SWAMPERT",
@@ -9162,8 +9162,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 14,
-       "SOULSILVER": 15
+       "HEARTGOLD": 28,
+       "SOULSILVER": 29
       },
       "species": {
        "morn": "SPECIES_SWABLU",
@@ -9173,8 +9173,8 @@
      },
      {
       "level": {
-       "HEARTGOLD": 14,
-       "SOULSILVER": 15
+       "HEARTGOLD": 28,
+       "SOULSILVER": 29
       },
       "species": {
        "morn": "SPECIES_BUDEW",
@@ -9183,7 +9183,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 30,
       "species": {
        "morn": "SPECIES_ROTOM",
        "day": "SPECIES_SWABLU",
@@ -9191,7 +9191,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 30,
       "species": {
        "morn": "SPECIES_ZUBAT",
        "day": "SPECIES_BUDEW",
@@ -9199,7 +9199,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 29,
       "species": {
        "morn": "SPECIES_TANGELA",
        "day": "SPECIES_ROTOM",
@@ -9207,7 +9207,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 32,
       "species": {
        "morn": "SPECIES_HOPPIP",
        "day": "SPECIES_ZUBAT",
@@ -9215,7 +9215,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 29,
       "species": {
        "morn": "SPECIES_SWAMPERT",
        "day": "SPECIES_TANGELA",
@@ -9223,7 +9223,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 32,
       "species": {
        "morn": "SPECIES_SWABLU",
        "day": "SPECIES_HOPPIP",
@@ -10401,7 +10401,7 @@
     "rate": 20,
     "mons": [
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_PARAS",
        "day": "SPECIES_BASTIODON",
@@ -10409,7 +10409,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_SEAKING",
        "day": "SPECIES_PALKIA",
@@ -10417,7 +10417,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_SUNFLORA",
        "day": "SPECIES_PARAS",
@@ -10425,7 +10425,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_WURMPLE",
        "day": "SPECIES_SEAKING",
@@ -10433,7 +10433,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_SOLROCK",
        "day": "SPECIES_SUNFLORA",
@@ -10441,7 +10441,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_BASTIODON",
        "day": "SPECIES_WURMPLE",
@@ -10449,7 +10449,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_PALKIA",
        "day": "SPECIES_SOLROCK",
@@ -10457,7 +10457,7 @@
       }
      },
      {
-      "level": 15,
+      "level": 17,
       "species": {
        "morn": "SPECIES_PARAS",
        "day": "SPECIES_BASTIODON",
@@ -10465,7 +10465,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_SEAKING",
        "day": "SPECIES_PALKIA",
@@ -10473,7 +10473,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_SUNFLORA",
        "day": "SPECIES_PARAS",
@@ -10481,7 +10481,7 @@
       }
      },
      {
-      "level": 16,
+      "level": 20,
       "species": {
        "morn": "SPECIES_WURMPLE",
        "day": "SPECIES_SEAKING",
@@ -10489,7 +10489,7 @@
       }
      },
      {
-      "level": 17,
+      "level": 23,
       "species": {
        "morn": "SPECIES_SOLROCK",
        "day": "SPECIES_SUNFLORA",
@@ -10861,7 +10861,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 23,
+      "level": 28,
       "species": {
        "morn": "SPECIES_PARASECT",
        "day": "SPECIES_BURMY",
@@ -10869,7 +10869,7 @@
       }
      },
      {
-      "level": 22,
+      "level": 26,
       "species": {
        "morn": "SPECIES_STARYU",
        "day": "SPECIES_HEATRAN",
@@ -10877,7 +10877,7 @@
       }
      },
      {
-      "level": 23,
+      "level": 28,
       "species": {
        "morn": "SPECIES_YANMA",
        "day": "SPECIES_PARASECT",
@@ -10885,7 +10885,7 @@
       }
      },
      {
-      "level": 22,
+      "level": 26,
       "species": {
        "morn": "SPECIES_SILCOON",
        "day": "SPECIES_STARYU",
@@ -10893,7 +10893,7 @@
       }
      },
      {
-      "level": 22,
+      "level": 26,
       "species": {
        "morn": "SPECIES_BARBOACH",
        "day": "SPECIES_YANMA",
@@ -10901,7 +10901,7 @@
       }
      },
      {
-      "level": 22,
+      "level": 26,
       "species": {
        "morn": "SPECIES_BURMY",
        "day": "SPECIES_SILCOON",
@@ -10909,7 +10909,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 30,
       "species": {
        "morn": "SPECIES_HEATRAN",
        "day": "SPECIES_BARBOACH",
@@ -10917,7 +10917,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 30,
       "species": {
        "morn": "SPECIES_PARASECT",
        "day": "SPECIES_BURMY",
@@ -10925,7 +10925,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 30,
       "species": {
        "morn": "SPECIES_STARYU",
        "day": "SPECIES_HEATRAN",
@@ -10933,7 +10933,7 @@
       }
      },
      {
-      "level": 26,
+      "level": 33,
       "species": {
        "morn": "SPECIES_YANMA",
        "day": "SPECIES_PARASECT",
@@ -10941,7 +10941,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 30,
       "species": {
        "morn": "SPECIES_SILCOON",
        "day": "SPECIES_STARYU",
@@ -10949,7 +10949,7 @@
       }
      },
      {
-      "level": 26,
+      "level": 33,
       "species": {
        "morn": "SPECIES_BARBOACH",
        "day": "SPECIES_YANMA",
@@ -12070,7 +12070,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 23,
+      "level": 30,
       "species": {
        "morn": "SPECIES_MEOWTH",
        "day": "SPECIES_PACHIRISU",
@@ -12078,7 +12078,7 @@
       }
      },
      {
-      "level": 23,
+      "level": 30,
       "species": {
        "morn": "SPECIES_ELECTABUZZ",
        "day": "SPECIES_MANAPHY",
@@ -12086,7 +12086,7 @@
       }
      },
      {
-      "level": 23,
+      "level": 30,
       "species": {
        "morn": "SPECIES_MURKROW",
        "day": "SPECIES_MEOWTH",
@@ -12094,7 +12094,7 @@
       }
      },
      {
-      "level": 23,
+      "level": 30,
       "species": {
        "morn": "SPECIES_LOMBRE",
        "day": "SPECIES_ELECTABUZZ",
@@ -12102,7 +12102,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 31,
       "species": {
        "morn": "SPECIES_CLAYDOL",
        "day": "SPECIES_MURKROW",
@@ -12110,7 +12110,7 @@
       }
      },
      {
-      "level": 24,
+      "level": 31,
       "species": {
        "morn": "SPECIES_PACHIRISU",
        "day": "SPECIES_LOMBRE",
@@ -12118,7 +12118,7 @@
       }
      },
      {
-      "level": 20,
+      "level": 27,
       "species": {
        "morn": "SPECIES_MANAPHY",
        "day": "SPECIES_CLAYDOL",
@@ -12126,7 +12126,7 @@
       }
      },
      {
-      "level": 20,
+      "level": 27,
       "species": {
        "morn": "SPECIES_MEOWTH",
        "day": "SPECIES_PACHIRISU",
@@ -12134,7 +12134,7 @@
       }
      },
      {
-      "level": 25,
+      "level": 32,
       "species": {
        "morn": "SPECIES_ELECTABUZZ",
        "day": "SPECIES_MANAPHY",
@@ -12142,7 +12142,7 @@
       }
      },
      {
-      "level": 27,
+      "level": 34,
       "species": {
        "morn": "SPECIES_MURKROW",
        "day": "SPECIES_MEOWTH",
@@ -12150,7 +12150,7 @@
       }
      },
      {
-      "level": 25,
+      "level": 32,
       "species": {
        "morn": "SPECIES_LOMBRE",
        "day": "SPECIES_ELECTABUZZ",
@@ -12158,7 +12158,7 @@
       }
      },
      {
-      "level": 27,
+      "level": 34,
       "species": {
        "morn": "SPECIES_CLAYDOL",
        "day": "SPECIES_MURKROW",
@@ -12352,7 +12352,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_PERSIAN",
        "day": "SPECIES_BUIZEL",
@@ -12360,7 +12360,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_MAGMAR",
        "day": "SPECIES_DARKRAI",
@@ -12368,7 +12368,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_SLOWKING",
        "day": "SPECIES_PERSIAN",
@@ -12376,7 +12376,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_LUDICOLO",
        "day": "SPECIES_MAGMAR",
@@ -12384,7 +12384,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_LILEEP",
        "day": "SPECIES_SLOWKING",
@@ -12392,7 +12392,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_BUIZEL",
        "day": "SPECIES_LUDICOLO",
@@ -12400,7 +12400,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_DARKRAI",
        "day": "SPECIES_LILEEP",
@@ -12408,7 +12408,7 @@
       }
      },
      {
-      "level": 2,
+      "level": 4,
       "species": {
        "morn": "SPECIES_PERSIAN",
        "day": "SPECIES_BUIZEL",
@@ -12416,7 +12416,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_MAGMAR",
        "day": "SPECIES_DARKRAI",
@@ -12424,7 +12424,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_SLOWKING",
        "day": "SPECIES_PERSIAN",
@@ -12432,7 +12432,7 @@
       }
      },
      {
-      "level": 3,
+      "level": 6,
       "species": {
        "morn": "SPECIES_LUDICOLO",
        "day": "SPECIES_MAGMAR",
@@ -12440,7 +12440,7 @@
       }
      },
      {
-      "level": 4,
+      "level": 8,
       "species": {
        "morn": "SPECIES_LILEEP",
        "day": "SPECIES_SLOWKING",
@@ -13066,7 +13066,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": 35,
+      "level": 44,
       "species": {
        "morn": "SPECIES_MANKEY",
        "day": "SPECIES_MANKEY",
@@ -13074,7 +13074,7 @@
       }
      },
      {
-      "level": 35,
+      "level": 44,
       "species": {
        "morn": "SPECIES_MAGIKARP",
        "day": "SPECIES_MAGIKARP",
@@ -13082,7 +13082,7 @@
       }
      },
      {
-      "level": 34,
+      "level": 43,
       "species": {
        "morn": "SPECIES_WOBBUFFET",
        "day": "SPECIES_WOBBUFFET",
@@ -13090,7 +13090,7 @@
       }
      },
      {
-      "level": 33,
+      "level": 42,
       "species": {
        "morn": "SPECIES_SHIFTRY",
        "day": "SPECIES_SHIFTRY",
@@ -13098,55 +13098,7 @@
       }
      },
      {
-      "level": 32,
-      "species": {
-       "morn": "SPECIES_ARMALDO",
-       "day": "SPECIES_ARMALDO",
-       "nite": "SPECIES_ARMALDO"
-      }
-     },
-     {
-      "level": 31,
-      "species": {
-       "morn": "SPECIES_CHERRIM",
-       "day": "SPECIES_CHERRIM",
-       "nite": "SPECIES_CHERRIM"
-      }
-     },
-     {
-      "level": 32,
-      "species": {
-       "morn": "SPECIES_MANKEY",
-       "day": "SPECIES_MANKEY",
-       "nite": "SPECIES_MANKEY"
-      }
-     },
-     {
-      "level": 31,
-      "species": {
-       "morn": "SPECIES_MAGIKARP",
-       "day": "SPECIES_MAGIKARP",
-       "nite": "SPECIES_MAGIKARP"
-      }
-     },
-     {
-      "level": 34,
-      "species": {
-       "morn": "SPECIES_WOBBUFFET",
-       "day": "SPECIES_WOBBUFFET",
-       "nite": "SPECIES_WOBBUFFET"
-      }
-     },
-     {
-      "level": 31,
-      "species": {
-       "morn": "SPECIES_SHIFTRY",
-       "day": "SPECIES_SHIFTRY",
-       "nite": "SPECIES_SHIFTRY"
-      }
-     },
-     {
-      "level": 33,
+      "level": 41,
       "species": {
        "morn": "SPECIES_ARMALDO",
        "day": "SPECIES_ARMALDO",
@@ -13155,6 +13107,54 @@
      },
      {
       "level": 40,
+      "species": {
+       "morn": "SPECIES_CHERRIM",
+       "day": "SPECIES_CHERRIM",
+       "nite": "SPECIES_CHERRIM"
+      }
+     },
+     {
+      "level": 41,
+      "species": {
+       "morn": "SPECIES_MANKEY",
+       "day": "SPECIES_MANKEY",
+       "nite": "SPECIES_MANKEY"
+      }
+     },
+     {
+      "level": 40,
+      "species": {
+       "morn": "SPECIES_MAGIKARP",
+       "day": "SPECIES_MAGIKARP",
+       "nite": "SPECIES_MAGIKARP"
+      }
+     },
+     {
+      "level": 43,
+      "species": {
+       "morn": "SPECIES_WOBBUFFET",
+       "day": "SPECIES_WOBBUFFET",
+       "nite": "SPECIES_WOBBUFFET"
+      }
+     },
+     {
+      "level": 40,
+      "species": {
+       "morn": "SPECIES_SHIFTRY",
+       "day": "SPECIES_SHIFTRY",
+       "nite": "SPECIES_SHIFTRY"
+      }
+     },
+     {
+      "level": 42,
+      "species": {
+       "morn": "SPECIES_ARMALDO",
+       "day": "SPECIES_ARMALDO",
+       "nite": "SPECIES_ARMALDO"
+      }
+     },
+     {
+      "level": 50,
       "species": {
        "morn": "SPECIES_CHERRIM",
        "day": "SPECIES_CHERRIM",

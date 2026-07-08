@@ -517,7 +517,7 @@ static BOOL SpeciesIsNotJohtoMythical(u16 species) {
 void Save_Pokedex_Init(Pokedex *pokedex) {
     memset(pokedex, 0, sizeof(Pokedex));
     pokedex->magic = POKEDEX_MAGIC;
-    pokedex->nationalDex = 0;
+    pokedex->nationalDex = TRUE; // National Dex enabled from the start of the game
     memset(pokedex->unownSeenOrder, 0xFF, 28);
     memset(pokedex->unownCaughtOrder, 0xFF, 28);
     pokedex->shellosFormOrder = 0xFF;
