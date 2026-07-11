@@ -240,10 +240,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 4,
-       "SOULSILVER": 8
-      },
+      "level": 4,
       "species": {
        "morn": "SPECIES_BULBASAUR",
        "day": "SPECIES_CLAMPERL",
@@ -251,10 +248,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 8,
-       "SOULSILVER": 4
-      },
+      "level": 8,
       "species": {
        "morn": "SPECIES_GEODUDE",
        "day": "SPECIES_MIME_JR",
@@ -270,10 +264,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 8,
-       "SOULSILVER": 4
-      },
+      "level": 8,
       "species": {
        "morn": "SPECIES_SWINUB",
        "day": "SPECIES_GEODUDE",
@@ -506,10 +497,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": {
-       "HEARTGOLD": 4,
-       "SOULSILVER": 6
-      },
+      "level": 4,
       "species": {
        "morn": "SPECIES_IVYSAUR",
        "day": "SPECIES_HUNTAIL",
@@ -525,10 +513,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 4,
-       "SOULSILVER": 6
-      },
+      "level": 4,
       "species": {
        "morn": "SPECIES_DRAGONAIR",
        "day": "SPECIES_IVYSAUR",
@@ -783,10 +768,7 @@
     "SPECIES_BUIZEL",
     "SPECIES_BIDOOF"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_PIDGEY",
-    "SOULSILVER": "SPECIES_LEDYBA"
-   },
+   "landSwarm": "SPECIES_PIDGEY",
    "surfSwarm": "SPECIES_POLIWAG",
    "nightFish": "SPECIES_POLIWAG",
    "fishSwarm": "SPECIES_MAGIKARP"
@@ -797,10 +779,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": {
-       "HEARTGOLD": 5,
-       "SOULSILVER": 8
-      },
+      "level": 5,
       "species": {
        "morn": "SPECIES_VENUSAUR",
        "day": "SPECIES_GOREBYSS",
@@ -816,10 +795,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 5,
-       "SOULSILVER": 8
-      },
+      "level": 5,
       "species": {
        "morn": "SPECIES_DRAGONITE",
        "day": "SPECIES_VENUSAUR",
@@ -1074,10 +1050,7 @@
     "SPECIES_BUIZEL",
     "SPECIES_BIDOOF"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_PIDGEY",
-    "SOULSILVER": "SPECIES_LEDYBA"
-   },
+   "landSwarm": "SPECIES_PIDGEY",
    "surfSwarm": "SPECIES_POLIWAG",
    "nightFish": "SPECIES_POLIWAG",
    "fishSwarm": "SPECIES_MAGIKARP"
@@ -4471,10 +4444,7 @@
     "SPECIES_BUDEW",
     "SPECIES_CARNIVINE"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_CATERPIE",
-    "SOULSILVER": "SPECIES_WEEDLE"
-   },
+   "landSwarm": "SPECIES_CATERPIE",
    "surfSwarm": "SPECIES_PSYDUCK",
    "nightFish": "SPECIES_POLIWAG",
    "fishSwarm": "SPECIES_MAGIKARP"
@@ -5176,10 +5146,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_CATERPIE",
-    "SOULSILVER": "SPECIES_WEEDLE"
-   }
+   "landSwarm": "SPECIES_CATERPIE"
   },
   {
    "map": "D22R0102",
@@ -5308,28 +5275,29 @@
    },
    "hoenn": [
     {
-     "HEARTGOLD": "SPECIES_CATERPIE",
-     "SOULSILVER": "SPECIES_WEEDLE"
+     "morn": "SPECIES_CATERPIE",
+     "day": "SPECIES_CATERPIE",
+     "nite": "SPECIES_WEEDLE"
     },
     {
-     "HEARTGOLD": "SPECIES_CATERPIE",
-     "SOULSILVER": "SPECIES_WEEDLE"
+     "morn": "SPECIES_CATERPIE",
+     "day": "SPECIES_CATERPIE",
+     "nite": "SPECIES_WEEDLE"
     }
    ],
    "sinnoh": [
     {
-     "HEARTGOLD": "SPECIES_CATERPIE",
-     "SOULSILVER": "SPECIES_WEEDLE"
+     "morn": "SPECIES_CATERPIE",
+     "day": "SPECIES_CATERPIE",
+     "nite": "SPECIES_WEEDLE"
     },
     {
-     "HEARTGOLD": "SPECIES_CATERPIE",
-     "SOULSILVER": "SPECIES_WEEDLE"
+     "morn": "SPECIES_CATERPIE",
+     "day": "SPECIES_CATERPIE",
+     "nite": "SPECIES_WEEDLE"
     }
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_CATERPIE",
-    "SOULSILVER": "SPECIES_WEEDLE"
-   }
+   "landSwarm": "SPECIES_CATERPIE"
   },
   {
    "map": "R36",
@@ -5464,10 +5432,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_NIDORAN_M",
-    "SOULSILVER": "SPECIES_NIDORAN_F"
-   }
+   "landSwarm": "SPECIES_NIDORAN_M"
   },
   {
    "map": "R37",
@@ -5602,10 +5567,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_PIDGEY",
-    "SOULSILVER": "SPECIES_LEDYBA"
-   }
+   "landSwarm": "SPECIES_PIDGEY"
   },
   {
    "map": "T27",
@@ -7403,10 +7365,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_RATTATA",
-    "SOULSILVER": "SPECIES_MEOWTH"
-   }
+   "landSwarm": "SPECIES_RATTATA"
   },
   {
    "map": "T26",
@@ -7782,18 +7741,13 @@
      },
      {
       "level": {
-       "min": {
-        "HEARTGOLD": 15,
-        "SOULSILVER": 10
-       },
-       "max": {
-        "HEARTGOLD": 25,
-        "SOULSILVER": 20
-       }
+       "min": 15,
+       "max": 25
       },
       "species": {
-       "HEARTGOLD": "SPECIES_TENTACRUEL",
-       "SOULSILVER": "SPECIES_TENTACOOL"
+       "morn": "SPECIES_TENTACRUEL",
+       "day": "SPECIES_TENTACRUEL",
+       "nite": "SPECIES_TENTACOOL"
       }
      },
      {
@@ -7802,8 +7756,9 @@
        "max": 25
       },
       "species": {
-       "HEARTGOLD": "SPECIES_MANTINE",
-       "SOULSILVER": "SPECIES_TENTACRUEL"
+       "morn": "SPECIES_MANTINE",
+       "day": "SPECIES_MANTINE",
+       "nite": "SPECIES_TENTACRUEL"
       }
      },
      {
@@ -7812,8 +7767,9 @@
        "max": 25
       },
       "species": {
-       "HEARTGOLD": "SPECIES_MANTINE",
-       "SOULSILVER": "SPECIES_TENTACRUEL"
+       "morn": "SPECIES_MANTINE",
+       "day": "SPECIES_MANTINE",
+       "nite": "SPECIES_TENTACRUEL"
       }
      },
      {
@@ -7822,8 +7778,9 @@
        "max": 25
       },
       "species": {
-       "HEARTGOLD": "SPECIES_MANTINE",
-       "SOULSILVER": "SPECIES_TENTACRUEL"
+       "morn": "SPECIES_MANTINE",
+       "day": "SPECIES_MANTINE",
+       "nite": "SPECIES_TENTACRUEL"
       }
      }
     ]
@@ -9117,10 +9074,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": {
-       "HEARTGOLD": 29,
-       "SOULSILVER": 26
-      },
+      "level": 29,
       "species": {
        "morn": "SPECIES_ZUBAT",
        "day": "SPECIES_BUDEW",
@@ -9128,10 +9082,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 26,
-       "SOULSILVER": 28
-      },
+      "level": 26,
       "species": {
        "morn": "SPECIES_TANGELA",
        "day": "SPECIES_ROTOM",
@@ -9139,10 +9090,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 29,
-       "SOULSILVER": 26
-      },
+      "level": 29,
       "species": {
        "morn": "SPECIES_HOPPIP",
        "day": "SPECIES_ZUBAT",
@@ -9150,10 +9098,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 26,
-       "SOULSILVER": 28
-      },
+      "level": 26,
       "species": {
        "morn": "SPECIES_SWAMPERT",
        "day": "SPECIES_TANGELA",
@@ -9161,10 +9106,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 28,
-       "SOULSILVER": 29
-      },
+      "level": 28,
       "species": {
        "morn": "SPECIES_SWABLU",
        "day": "SPECIES_HOPPIP",
@@ -9172,10 +9114,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 28,
-       "SOULSILVER": 29
-      },
+      "level": 28,
       "species": {
        "morn": "SPECIES_BUDEW",
        "day": "SPECIES_SWAMPERT",
@@ -9406,10 +9345,7 @@
     "SPECIES_BUIZEL",
     "SPECIES_BIDOOF"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_MANKEY",
-    "SOULSILVER": "SPECIES_MAREEP"
-   },
+   "landSwarm": "SPECIES_MANKEY",
    "surfSwarm": "SPECIES_GOLDEEN",
    "nightFish": "SPECIES_GOLDEEN",
    "fishSwarm": "SPECIES_MAGIKARP"
@@ -16582,10 +16518,7 @@
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 45,
-       "SOULSILVER": 30
-      },
+      "level": 45,
       "species": {
        "morn": "SPECIES_WEEPINBELL",
        "day": "SPECIES_WEEPINBELL",
@@ -18967,10 +18900,7 @@
     "rate": 25,
     "mons": [
      {
-      "level": {
-       "HEARTGOLD": 25,
-       "SOULSILVER": 24
-      },
+      "level": 25,
       "species": {
        "morn": "SPECIES_TENTACRUEL",
        "day": "SPECIES_TENTACRUEL",
@@ -19115,18 +19045,9 @@
      {
       "level": 28,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_RATICATE"
       }
      },
      {
@@ -19140,18 +19061,9 @@
      {
       "level": 28,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_RATICATE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_RATICATE"
       }
      },
      {
@@ -19176,8 +19088,9 @@
        "morn": "SPECIES_DODUO",
        "day": "SPECIES_DODUO",
        "nite": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        }
       }
      },
@@ -19187,8 +19100,9 @@
        "morn": "SPECIES_DODUO",
        "day": "SPECIES_DODUO",
        "nite": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        }
       }
      },
@@ -19203,18 +19117,9 @@
      {
       "level": 30,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DODRIO",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DODRIO",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_QUAGSIRE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_DODRIO",
+       "morn": "SPECIES_DODRIO",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -19228,18 +19133,9 @@
      {
       "level": 30,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DODRIO",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DODRIO",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_QUAGSIRE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_DODRIO",
+       "morn": "SPECIES_DODRIO",
+       "nite": "SPECIES_ARBOK"
       }
      }
     ]
@@ -19439,18 +19335,9 @@
      {
       "level": 28,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATICATE",
+       "morn": "SPECIES_RATICATE",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -19464,30 +19351,23 @@
      {
       "level": 28,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATICATE",
+       "morn": "SPECIES_RATICATE",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
       "level": 30,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_DODUO",
-        "SOULSILVER": "SPECIES_RATICATE"
+        "morn": "SPECIES_DODUO",
+        "day": "SPECIES_DODUO",
+        "nite": "SPECIES_RATICATE"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_DODUO",
-        "SOULSILVER": "SPECIES_RATICATE"
+        "morn": "SPECIES_DODUO",
+        "day": "SPECIES_DODUO",
+        "nite": "SPECIES_RATICATE"
        },
        "nite": "SPECIES_QUAGSIRE"
       }
@@ -19496,12 +19376,14 @@
       "level": 30,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_DODUO",
-        "SOULSILVER": "SPECIES_RATICATE"
+        "morn": "SPECIES_DODUO",
+        "day": "SPECIES_DODUO",
+        "nite": "SPECIES_RATICATE"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_DODUO",
-        "SOULSILVER": "SPECIES_RATICATE"
+        "morn": "SPECIES_DODUO",
+        "day": "SPECIES_DODUO",
+        "nite": "SPECIES_RATICATE"
        },
        "nite": "SPECIES_QUAGSIRE"
       }
@@ -19510,12 +19392,14 @@
       "level": 30,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        },
        "nite": "SPECIES_RATICATE"
       }
@@ -19524,12 +19408,14 @@
       "level": 30,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_RATICATE",
-        "SOULSILVER": "SPECIES_DODUO"
+        "morn": "SPECIES_RATICATE",
+        "day": "SPECIES_RATICATE",
+        "nite": "SPECIES_DODUO"
        },
        "nite": "SPECIES_RATICATE"
       }
@@ -19545,18 +19431,9 @@
      {
       "level": 30,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_DODRIO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_DODRIO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_QUAGSIRE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_QUAGSIRE"
       }
      },
      {
@@ -19570,18 +19447,9 @@
      {
       "level": 30,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_DODRIO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_DODRIO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_QUAGSIRE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_QUAGSIRE"
       }
      }
     ]
@@ -19805,35 +19673,17 @@
      {
       "level": 40,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
       "level": 40,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
@@ -20105,35 +19955,17 @@
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       }
+       "day": "SPECIES_SANDSHREW",
+       "morn": "SPECIES_SANDSHREW",
+       "nite": "SPECIES_ZUBAT"
       }
      },
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       }
+       "day": "SPECIES_SANDSHREW",
+       "morn": "SPECIES_SANDSHREW",
+       "nite": "SPECIES_ZUBAT"
       }
      },
      {
@@ -20155,18 +19987,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_GEODUDE"
       }
      },
      {
@@ -20180,18 +20003,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_GEODUDE"
       }
      },
      {
@@ -20276,35 +20090,17 @@
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       }
+       "day": "SPECIES_SANDSHREW",
+       "morn": "SPECIES_SANDSHREW",
+       "nite": "SPECIES_ZUBAT"
       }
      },
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSHREW",
-        "SOULSILVER": "SPECIES_ZUBAT"
-       }
+       "day": "SPECIES_SANDSHREW",
+       "morn": "SPECIES_SANDSHREW",
+       "nite": "SPECIES_ZUBAT"
       }
      },
      {
@@ -20326,18 +20122,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_GEODUDE"
       }
      },
      {
@@ -20351,18 +20138,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SANDSLASH",
-        "SOULSILVER": "SPECIES_GEODUDE"
-       }
+       "day": "SPECIES_SANDSLASH",
+       "morn": "SPECIES_SANDSLASH",
+       "nite": "SPECIES_GEODUDE"
       }
      },
      {
@@ -20732,35 +20510,17 @@
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
@@ -20989,12 +20749,14 @@
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_LEDYBA"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_LEDYBA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -21005,39 +20767,33 @@
        "morn": "SPECIES_PIDGEY",
        "day": "SPECIES_PIDGEY",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_HOOTHOOT"
+        "morn": "SPECIES_SPINARAK",
+        "day": "SPECIES_SPINARAK",
+        "nite": "SPECIES_HOOTHOOT"
        }
       }
      },
      {
       "level": 3,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_HOOTHOOT",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       }
+       "day": "SPECIES_CATERPIE",
+       "morn": "SPECIES_CATERPIE",
+       "nite": "SPECIES_KAKUNA"
       }
      },
      {
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_LEDYBA"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_LEDYBA"
        },
        "day": "SPECIES_PIDGEY",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_HOOTHOOT"
+        "morn": "SPECIES_SPINARAK",
+        "day": "SPECIES_SPINARAK",
+        "nite": "SPECIES_HOOTHOOT"
        }
       }
      },
@@ -21045,12 +20801,14 @@
       "level": 5,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -21058,40 +20816,30 @@
      {
       "level": 5,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_HOOTHOOT",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       }
+       "day": "SPECIES_METAPOD",
+       "morn": "SPECIES_METAPOD",
+       "nite": "SPECIES_WEEDLE"
       }
      },
      {
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": "SPECIES_PIDGEY",
        "nite": "SPECIES_NOCTOWL"
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 8,
-       "SOULSILVER": 7
-      },
+      "level": 8,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": "SPECIES_PIDGEY",
        "nite": "SPECIES_NOCTOWL"
@@ -21101,62 +20849,48 @@
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDIAN"
+        "morn": "SPECIES_PIDGEOTTO",
+        "day": "SPECIES_PIDGEOTTO",
+        "nite": "SPECIES_LEDIAN"
        },
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_ARIADOS",
-        "SOULSILVER": "SPECIES_NOCTOWL"
+        "morn": "SPECIES_ARIADOS",
+        "day": "SPECIES_ARIADOS",
+        "nite": "SPECIES_NOCTOWL"
        }
       }
      },
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_LEDIAN"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDYBA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NOCTOWL",
-        "SOULSILVER": "SPECIES_BEEDRILL"
-       }
+       "day": "SPECIES_PIDGEOTTO",
+       "morn": "SPECIES_SPINARAK",
+       "nite": "SPECIES_BEEDRILL"
       }
      },
      {
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDIAN"
+        "morn": "SPECIES_PIDGEOTTO",
+        "day": "SPECIES_PIDGEOTTO",
+        "nite": "SPECIES_LEDIAN"
        },
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_ARIADOS",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_ARIADOS",
+        "day": "SPECIES_ARIADOS",
+        "nite": "SPECIES_KAKUNA"
        }
       }
      },
      {
       "level": 4,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       }
+       "day": "SPECIES_CATERPIE",
+       "morn": "SPECIES_CATERPIE",
+       "nite": "SPECIES_WEEDLE"
       }
      }
     ]
@@ -21191,10 +20925,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_CATERPIE",
-    "SOULSILVER": "SPECIES_WEEDLE"
-   }
+   "landSwarm": "SPECIES_CATERPIE"
   },
   {
    "map": "R03",
@@ -21236,35 +20967,17 @@
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_EKANS"
-       }
+       "day": "SPECIES_SPEAROW",
+       "morn": "SPECIES_SPEAROW",
+       "nite": "SPECIES_EKANS"
       }
      },
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_EKANS"
-       }
+       "day": "SPECIES_SPEAROW",
+       "morn": "SPECIES_SPEAROW",
+       "nite": "SPECIES_EKANS"
       }
      },
      {
@@ -21286,18 +20999,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -21311,18 +21015,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -21365,10 +21060,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_BALTOY",
-    "SOULSILVER": "SPECIES_GULPIN"
-   }
+   "landSwarm": "SPECIES_BALTOY"
   },
   {
    "map": "R04",
@@ -21381,8 +21073,9 @@
        "morn": "SPECIES_SPEAROW",
        "day": "SPECIES_SPEAROW",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_RATTATA"
+        "morn": "SPECIES_SPEAROW",
+        "day": "SPECIES_SPEAROW",
+        "nite": "SPECIES_RATTATA"
        }
       }
      },
@@ -21400,8 +21093,9 @@
        "morn": "SPECIES_SPEAROW",
        "day": "SPECIES_SPEAROW",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_RATTATA"
+        "morn": "SPECIES_SPEAROW",
+        "day": "SPECIES_SPEAROW",
+        "nite": "SPECIES_RATTATA"
        }
       }
      },
@@ -21416,35 +21110,17 @@
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_EKANS"
-       }
+       "day": "SPECIES_SPEAROW",
+       "morn": "SPECIES_SPEAROW",
+       "nite": "SPECIES_EKANS"
       }
      },
      {
       "level": 8,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_SPEAROW",
-        "SOULSILVER": "SPECIES_EKANS"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_EKANS"
-       }
+       "day": "SPECIES_SPEAROW",
+       "morn": "SPECIES_SPEAROW",
+       "nite": "SPECIES_EKANS"
       }
      },
      {
@@ -21466,18 +21142,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -21491,18 +21158,9 @@
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_ARBOK"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_ARBOK"
       }
      },
      {
@@ -21713,8 +21371,9 @@
        "morn": "SPECIES_BELLSPROUT",
        "day": "SPECIES_BELLSPROUT",
        "nite": {
-        "HEARTGOLD": "SPECIES_ODDISH",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_ODDISH",
+        "day": "SPECIES_ODDISH",
+        "nite": "SPECIES_MEOWTH"
        }
       }
      },
@@ -21732,8 +21391,9 @@
        "morn": "SPECIES_BELLSPROUT",
        "day": "SPECIES_BELLSPROUT",
        "nite": {
-        "HEARTGOLD": "SPECIES_ODDISH",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_ODDISH",
+        "day": "SPECIES_ODDISH",
+        "nite": "SPECIES_MEOWTH"
        }
       }
      },
@@ -21741,12 +21401,14 @@
       "level": 14,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "nite": "SPECIES_BELLSPROUT"
       }
@@ -21755,12 +21417,14 @@
       "level": 14,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "nite": "SPECIES_BELLSPROUT"
       }
@@ -21866,8 +21530,9 @@
        "morn": "SPECIES_BELLSPROUT",
        "day": "SPECIES_BELLSPROUT",
        "nite": {
-        "HEARTGOLD": "SPECIES_ODDISH",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_ODDISH",
+        "day": "SPECIES_ODDISH",
+        "nite": "SPECIES_MEOWTH"
        }
       }
      },
@@ -21885,8 +21550,9 @@
        "morn": "SPECIES_BELLSPROUT",
        "day": "SPECIES_BELLSPROUT",
        "nite": {
-        "HEARTGOLD": "SPECIES_ODDISH",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_ODDISH",
+        "day": "SPECIES_ODDISH",
+        "nite": "SPECIES_MEOWTH"
        }
       }
      },
@@ -21894,12 +21560,14 @@
       "level": 14,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "nite": "SPECIES_BELLSPROUT"
       }
@@ -21908,12 +21576,14 @@
       "level": 14,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_MEOWTH"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_MEOWTH"
        },
        "nite": "SPECIES_BELLSPROUT"
       }
@@ -22155,18 +21825,9 @@
      {
       "level": 17,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_MEOWTH"
       }
      },
      {
@@ -22180,18 +21841,9 @@
      {
       "level": 17,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_MEOWTH"
       }
      },
      {
@@ -22205,35 +21857,17 @@
      {
       "level": 18,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       }
+       "day": "SPECIES_GROWLITHE",
+       "morn": "SPECIES_GROWLITHE",
+       "nite": "SPECIES_VULPIX"
       }
      },
      {
       "level": 18,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
-       }
+       "day": "SPECIES_GROWLITHE",
+       "morn": "SPECIES_GROWLITHE",
+       "nite": "SPECIES_VULPIX"
       }
      },
      {
@@ -22255,18 +21889,9 @@
      {
       "level": 19,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_MURKROW",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_PERSIAN"
       }
      },
      {
@@ -22274,8 +21899,9 @@
       "species": {
        "morn": "SPECIES_RATTATA",
        "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "nite": "SPECIES_HOUNDOUR"
       }
@@ -22283,18 +21909,9 @@
      {
       "level": 19,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_MURKROW",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       }
+       "day": "SPECIES_RATTATA",
+       "morn": "SPECIES_RATTATA",
+       "nite": "SPECIES_PERSIAN"
       }
      },
      {
@@ -22302,8 +21919,9 @@
       "species": {
        "morn": "SPECIES_RATTATA",
        "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "nite": "SPECIES_HOUNDOUR"
       }
@@ -22340,10 +21958,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_RATTATA",
-    "SOULSILVER": "SPECIES_MEOWTH"
-   }
+   "landSwarm": "SPECIES_RATTATA"
   },
   {
    "map": "R08",
@@ -22353,18 +21968,9 @@
      {
       "level": 17,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NOCTOWL",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       }
+       "day": "SPECIES_PIDGEOTTO",
+       "morn": "SPECIES_PIDGEOTTO",
+       "nite": "SPECIES_MEOWTH"
       }
      },
      {
@@ -22378,18 +21984,9 @@
      {
       "level": 17,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NOCTOWL",
-        "SOULSILVER": "SPECIES_MEOWTH"
-       }
+       "day": "SPECIES_PIDGEOTTO",
+       "morn": "SPECIES_PIDGEOTTO",
+       "nite": "SPECIES_MEOWTH"
       }
      },
      {
@@ -22420,12 +22017,14 @@
       "level": 18,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "nite": "SPECIES_NOCTOWL"
       }
@@ -22434,12 +22033,14 @@
       "level": 18,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        },
        "nite": "SPECIES_NOCTOWL"
       }
@@ -22450,8 +22051,9 @@
        "morn": "SPECIES_PIDGEOTTO",
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        }
       }
      },
@@ -22469,8 +22071,9 @@
        "morn": "SPECIES_PIDGEOTTO",
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_GROWLITHE",
-        "SOULSILVER": "SPECIES_VULPIX"
+        "morn": "SPECIES_GROWLITHE",
+        "day": "SPECIES_GROWLITHE",
+        "nite": "SPECIES_VULPIX"
        }
       }
      },
@@ -22514,10 +22117,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_PIDGEOTTO",
-    "SOULSILVER": "SPECIES_MEOWTH"
-   }
+   "landSwarm": "SPECIES_PIDGEOTTO"
   },
   {
    "map": "R09",
@@ -22527,30 +22127,23 @@
      {
       "level": 13,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       }
+       "day": "SPECIES_MANKEY",
+       "morn": "SPECIES_MANKEY",
+       "nite": "SPECIES_RATTATA"
       }
      },
      {
       "level": 15,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_SPEAROW"
+        "morn": "SPECIES_RATTATA",
+        "day": "SPECIES_RATTATA",
+        "nite": "SPECIES_SPEAROW"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_SPEAROW"
+        "morn": "SPECIES_RATTATA",
+        "day": "SPECIES_RATTATA",
+        "nite": "SPECIES_SPEAROW"
        },
        "nite": "SPECIES_RATTATA"
       }
@@ -22558,30 +22151,23 @@
      {
       "level": 13,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_MANKEY",
-        "SOULSILVER": "SPECIES_RATTATA"
-       }
+       "day": "SPECIES_MANKEY",
+       "morn": "SPECIES_MANKEY",
+       "nite": "SPECIES_RATTATA"
       }
      },
      {
       "level": 15,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_SPEAROW"
+        "morn": "SPECIES_RATTATA",
+        "day": "SPECIES_RATTATA",
+        "nite": "SPECIES_SPEAROW"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_RATTATA",
-        "SOULSILVER": "SPECIES_SPEAROW"
+        "morn": "SPECIES_RATTATA",
+        "day": "SPECIES_RATTATA",
+        "nite": "SPECIES_SPEAROW"
        },
        "nite": "SPECIES_RATTATA"
       }
@@ -22629,18 +22215,9 @@
      {
       "level": 15,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       }
+       "day": "SPECIES_PRIMEAPE",
+       "morn": "SPECIES_PRIMEAPE",
+       "nite": "SPECIES_RATICATE"
       }
      },
      {
@@ -22654,18 +22231,9 @@
      {
       "level": 15,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_RATICATE"
-       }
+       "day": "SPECIES_PRIMEAPE",
+       "morn": "SPECIES_PRIMEAPE",
+       "nite": "SPECIES_RATICATE"
       }
      }
     ]
@@ -22844,10 +22412,7 @@
     "SPECIES_BUIZEL",
     "SPECIES_BIDOOF"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_SABLEYE",
-    "SOULSILVER": "SPECIES_MAWILE"
-   },
+   "landSwarm": "SPECIES_SABLEYE",
    "surfSwarm": "SPECIES_GOLDEEN",
    "nightFish": "SPECIES_GOLDEEN",
    "fishSwarm": "SPECIES_MAGIKARP"
@@ -23277,69 +22842,33 @@
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
@@ -23595,69 +23124,33 @@
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
@@ -23756,10 +23249,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_NIDORINA",
-    "SOULSILVER": "SPECIES_NIDORINO"
-   }
+   "landSwarm": "SPECIES_NIDORINA"
   },
   {
    "map": "R15",
@@ -23769,69 +23259,33 @@
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINA",
-        "SOULSILVER": "SPECIES_NIDORINO"
-       }
+       "day": "SPECIES_NIDORINA",
+       "morn": "SPECIES_NIDORINA",
+       "nite": "SPECIES_NIDORINO"
       }
      },
      {
       "level": 23,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NIDORINO",
-        "SOULSILVER": "SPECIES_NIDORINA"
-       }
+       "day": "SPECIES_NIDORINO",
+       "morn": "SPECIES_NIDORINO",
+       "nite": "SPECIES_NIDORINA"
       }
      },
      {
@@ -23930,10 +23384,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_NIDORINA",
-    "SOULSILVER": "SPECIES_NIDORINO"
-   }
+   "landSwarm": "SPECIES_NIDORINA"
   },
   {
    "map": "R16R0301",
@@ -25925,35 +25376,17 @@
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
@@ -26078,35 +25511,17 @@
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
       "level": 33,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_DONPHAN",
-        "SOULSILVER": "SPECIES_URSARING"
-       }
+       "day": "SPECIES_DONPHAN",
+       "morn": "SPECIES_DONPHAN",
+       "nite": "SPECIES_URSARING"
       }
      },
      {
@@ -26215,12 +25630,14 @@
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_LEDYBA"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_LEDYBA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26231,39 +25648,33 @@
        "morn": "SPECIES_PIDGEY",
        "day": "SPECIES_PIDGEY",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_HOOTHOOT"
+        "morn": "SPECIES_SPINARAK",
+        "day": "SPECIES_SPINARAK",
+        "nite": "SPECIES_HOOTHOOT"
        }
       }
      },
      {
       "level": 3,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_HOOTHOOT",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       }
+       "day": "SPECIES_CATERPIE",
+       "morn": "SPECIES_CATERPIE",
+       "nite": "SPECIES_KAKUNA"
       }
      },
      {
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_LEDYBA"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_LEDYBA"
        },
        "day": "SPECIES_PIDGEY",
        "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_HOOTHOOT"
+        "morn": "SPECIES_SPINARAK",
+        "day": "SPECIES_SPINARAK",
+        "nite": "SPECIES_HOOTHOOT"
        }
       }
      },
@@ -26271,12 +25682,14 @@
       "level": 5,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_PIDGEY",
+        "day": "SPECIES_PIDGEY",
+        "nite": "SPECIES_KAKUNA"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26284,47 +25697,39 @@
      {
       "level": 5,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PIDGEY",
-        "SOULSILVER": "SPECIES_KAKUNA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_HOOTHOOT",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       }
+       "day": "SPECIES_PIDGEY",
+       "morn": "SPECIES_METAPOD",
+       "nite": "SPECIES_WEEDLE"
       }
      },
      {
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_PIDGEY"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_PIDGEY"
        },
        "nite": "SPECIES_NOCTOWL"
       }
      },
      {
-      "level": {
-       "HEARTGOLD": 8,
-       "SOULSILVER": 7
-      },
+      "level": 8,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_PIDGEY"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_PIDGEY"
        },
        "nite": "SPECIES_NOCTOWL"
       }
@@ -26333,62 +25738,48 @@
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDIAN"
+        "morn": "SPECIES_PIDGEOTTO",
+        "day": "SPECIES_PIDGEOTTO",
+        "nite": "SPECIES_LEDIAN"
        },
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_ARIADOS",
-        "SOULSILVER": "SPECIES_NOCTOWL"
+        "morn": "SPECIES_ARIADOS",
+        "day": "SPECIES_ARIADOS",
+        "nite": "SPECIES_NOCTOWL"
        }
       }
      },
      {
       "level": 10,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_LEDIAN"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDYBA"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_NOCTOWL",
-        "SOULSILVER": "SPECIES_BEEDRILL"
-       }
+       "day": "SPECIES_PIDGEOTTO",
+       "morn": "SPECIES_SPINARAK",
+       "nite": "SPECIES_BEEDRILL"
       }
      },
      {
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PIDGEOTTO",
-        "SOULSILVER": "SPECIES_LEDIAN"
+        "morn": "SPECIES_PIDGEOTTO",
+        "day": "SPECIES_PIDGEOTTO",
+        "nite": "SPECIES_LEDIAN"
        },
        "day": "SPECIES_PIDGEOTTO",
        "nite": {
-        "HEARTGOLD": "SPECIES_ARIADOS",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_ARIADOS",
+        "day": "SPECIES_ARIADOS",
+        "nite": "SPECIES_KAKUNA"
        }
       }
      },
      {
       "level": 4,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_SPINARAK",
-        "SOULSILVER": "SPECIES_WEEDLE"
-       }
+       "day": "SPECIES_CATERPIE",
+       "morn": "SPECIES_CATERPIE",
+       "nite": "SPECIES_WEEDLE"
       }
      }
     ]
@@ -26423,10 +25814,7 @@
     "SPECIES_SHINX",
     "SPECIES_SHINX"
    ],
-   "landSwarm": {
-    "HEARTGOLD": "SPECIES_CATERPIE",
-    "SOULSILVER": "SPECIES_WEEDLE"
-   }
+   "landSwarm": "SPECIES_CATERPIE"
   },
   {
    "map": "D46R0101",
@@ -26437,12 +25825,14 @@
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26451,12 +25841,14 @@
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_CATERPIE",
-        "SOULSILVER": "SPECIES_WEEDLE"
+        "morn": "SPECIES_CATERPIE",
+        "day": "SPECIES_CATERPIE",
+        "nite": "SPECIES_WEEDLE"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26465,12 +25857,14 @@
       "level": 3,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26487,12 +25881,14 @@
       "level": 5,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26501,12 +25897,14 @@
       "level": 5,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_METAPOD",
-        "SOULSILVER": "SPECIES_KAKUNA"
+        "morn": "SPECIES_METAPOD",
+        "day": "SPECIES_METAPOD",
+        "nite": "SPECIES_KAKUNA"
        },
        "nite": "SPECIES_HOOTHOOT"
       }
@@ -26515,8 +25913,9 @@
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": "SPECIES_PIDGEY",
        "nite": "SPECIES_NOCTOWL"
@@ -26526,8 +25925,9 @@
       "level": 7,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_BUTTERFREE",
-        "SOULSILVER": "SPECIES_BEEDRILL"
+        "morn": "SPECIES_BUTTERFREE",
+        "day": "SPECIES_BUTTERFREE",
+        "nite": "SPECIES_BEEDRILL"
        },
        "day": "SPECIES_PIDGEOTTO",
        "nite": "SPECIES_NOCTOWL"
@@ -26663,12 +26063,14 @@
       "level": 38,
       "species": {
        "morn": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_PERSIAN"
+        "morn": "SPECIES_PRIMEAPE",
+        "day": "SPECIES_PRIMEAPE",
+        "nite": "SPECIES_PERSIAN"
        },
        "day": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_PERSIAN"
+        "morn": "SPECIES_PRIMEAPE",
+        "day": "SPECIES_PRIMEAPE",
+        "nite": "SPECIES_PERSIAN"
        },
        "nite": "SPECIES_PARASECT"
       }
@@ -26708,18 +26110,9 @@
      {
       "level": 39,
       "species": {
-       "morn": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "day": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       },
-       "nite": {
-        "HEARTGOLD": "SPECIES_PRIMEAPE",
-        "SOULSILVER": "SPECIES_PERSIAN"
-       }
+       "day": "SPECIES_PRIMEAPE",
+       "morn": "SPECIES_PRIMEAPE",
+       "nite": "SPECIES_PERSIAN"
       }
      },
      {

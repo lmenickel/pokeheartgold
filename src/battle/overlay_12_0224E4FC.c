@@ -373,9 +373,7 @@ int GetBattlerVar(BattleContext *ctx, int battlerId, u32 id, void *data) {
     case BMON_DATA_OT_NAME: {
         int i;
         u16 *buffer = data;
-        for (i = 0; i < POKEMON_NAME_LENGTH + 1; i++) {
-            // BUG: this array doesn't have 11 elements, the reason for the bug is a typo in the original code
-            //      where it used the length of a Pokemon's nickname rather than a trainer's nickname
+        for (i = 0; i < PLAYER_NAME_LENGTH + 1; i++) {
             buffer[i] = mon->otName[i];
         }
     } break;
@@ -608,11 +606,8 @@ void SetBattlerVar(BattleContext *ctx, int battlerId, u32 id, void *data) {
         mon->maxHp = *data16;
         break;
     case BMON_DATA_OT_NAME:
-        for (int i = 0; i < POKEMON_NAME_LENGTH + 1; i++) {
-            // BUG: this array doesn't have 11 elements, the reason for the bug is a typo in the original code
-            //      where it used the length of a Pokemon's nickname rather than a trainer's nickname
+        for (int i = 0; i < PLAYER_NAME_LENGTH + 1; i++) {
             mon->otName[i] = data16[i];
-            // Side note but since this will overwrite the space in memory where the pokemon's exp is stored, there could be some funny things to come of this
         }
         break;
     case BMON_DATA_EXP:
@@ -1991,8 +1986,7 @@ u32 StruggleCheck(BattleSystem *battleSystem, BattleContext *ctx, int battlerId,
         if (BattleContext_CheckMoveHealBlocked(battleSystem, ctx, battlerId, ctx->battleMons[battlerId].moves[movePos]) && (struggleCheckFlags & STRUGGLE_CHECK_HEAL_BLOCK)) {
             nonSelectableMoves |= MaskOfFlagNo(movePos);
         }
-        if ((ctx->battleMons[battlerId].unk88.encoredMove) && (ctx->battleMons[battlerId].unk88.encoredMove != ctx->battleMons[battlerId].moves[movePos])) {
-            // BUG: The flag check for encore is missing in this if statement, though it's unclear if this effects anything functionally
+        if ((ctx->battleMons[battlerId].unk88.encoredMove) && (ctx->battleMons[battlerId].unk88.encoredMove != ctx->battleMons[battlerId].moves[movePos]) && (struggleCheckFlags & STRUGGLE_CHECK_ENCORE)) {
             nonSelectableMoves |= MaskOfFlagNo(movePos);
         }
         if ((item == HOLD_EFFECT_CHOICE_ATK || item == HOLD_EFFECT_CHOICE_SPEED || item == HOLD_EFFECT_CHOICE_SPATK) && (struggleCheckFlags & STRUGGLE_CHECK_CHOICED)) {
@@ -6691,21 +6685,16 @@ static int GetDynamicMoveType(BattleSystem *battleSystem, BattleContext *ctx, in
         }
         break;
     case MOVE_WEATHER_BALL:
+        type = TYPE_NORMAL;
         if (!CheckAbilityActive(battleSystem, ctx, CHECK_ABILITY_ALL_HP, 0, ABILITY_CLOUD_NINE) && !CheckAbilityActive(battleSystem, ctx, CHECK_ABILITY_ALL_HP, 0, ABILITY_AIR_LOCK)) {
-            if (ctx->fieldCondition & FIELD_CONDITION_WEATHER) {
-                if (ctx->fieldCondition & FIELD_CONDITION_RAIN_ALL) {
-                    type = TYPE_WATER;
-                }
-                if (ctx->fieldCondition & FIELD_CONDITION_SANDSTORM_ALL) {
-                    type = TYPE_ROCK;
-                }
-                if (ctx->fieldCondition & FIELD_CONDITION_SUN_ALL) {
-                    type = TYPE_FIRE;
-                }
-                if (ctx->fieldCondition & FIELD_CONDITION_HAIL_ALL) {
-                    type = TYPE_ICE;
-                }
-                // BUG: If the weather is foggy, then type doesn't get set properly before being returned
+            if (ctx->fieldCondition & FIELD_CONDITION_RAIN_ALL) {
+                type = TYPE_WATER;
+            } else if (ctx->fieldCondition & FIELD_CONDITION_SANDSTORM_ALL) {
+                type = TYPE_ROCK;
+            } else if (ctx->fieldCondition & FIELD_CONDITION_SUN_ALL) {
+                type = TYPE_FIRE;
+            } else if (ctx->fieldCondition & FIELD_CONDITION_HAIL_ALL) {
+                type = TYPE_ICE;
             }
         }
         break;
